@@ -1,0 +1,2816 @@
+user_id,place_id,rating,visit_month,trip_type,data_source
+U001,P011,4,Sep,family,synthetic
+U001,P025,3,Jul,family,synthetic
+U001,P019,3,Apr,family,synthetic
+U001,P017,3,May,family,synthetic
+U001,P006,3,Apr,family,synthetic
+U001,P003,4,Apr,family,synthetic
+U001,P021,5,Aug,family,synthetic
+U001,P018,4,May,family,synthetic
+U001,P001,4,Sep,family,synthetic
+U001,P026,3,Aug,family,synthetic
+U001,P020,3,May,family,synthetic
+U001,P007,4,Oct,family,synthetic
+U001,P009,4,Jun,family,synthetic
+U001,P014,4,Aug,family,synthetic
+U001,P010,3,Apr,family,synthetic
+U001,P016,3,Oct,family,synthetic
+U002,P014,5,May,group tour,synthetic
+U002,P001,4,Aug,group tour,synthetic
+U002,P025,3,Apr,group tour,synthetic
+U002,P007,4,Jul,group tour,synthetic
+U002,P018,3,Jul,group tour,synthetic
+U002,P008,3,Sep,group tour,synthetic
+U002,P015,4,Oct,group tour,synthetic
+U002,P005,5,Aug,group tour,synthetic
+U002,P027,4,Oct,group tour,synthetic
+U002,P021,3,May,group tour,synthetic
+U003,P004,5,Apr,friends,synthetic
+U003,P019,4,Oct,friends,synthetic
+U003,P003,3,Apr,friends,synthetic
+U003,P026,3,Sep,friends,synthetic
+U003,P005,5,Aug,friends,synthetic
+U003,P001,5,Jul,friends,synthetic
+U003,P020,4,Oct,friends,synthetic
+U003,P018,5,Oct,friends,synthetic
+U003,P002,4,Apr,friends,synthetic
+U003,P010,4,Aug,friends,synthetic
+U003,P008,4,Apr,friends,synthetic
+U003,P022,4,Sep,friends,synthetic
+U003,P016,4,May,friends,synthetic
+U004,P013,5,May,friends,synthetic
+U004,P011,4,Jun,friends,synthetic
+U004,P001,5,Oct,friends,synthetic
+U004,P003,4,Oct,friends,synthetic
+U004,P016,4,Jul,friends,synthetic
+U004,P008,3,Jun,friends,synthetic
+U004,P012,4,Oct,friends,synthetic
+U004,P024,3,May,friends,synthetic
+U004,P007,4,Aug,friends,synthetic
+U004,P010,4,May,friends,synthetic
+U004,P021,3,Apr,friends,synthetic
+U004,P006,2,Oct,friends,synthetic
+U004,P002,4,Oct,friends,synthetic
+U004,P023,3,Apr,friends,synthetic
+U004,P022,3,May,friends,synthetic
+U004,P025,3,Aug,friends,synthetic
+U004,P009,4,Jun,friends,synthetic
+U005,P014,4,Jul,solo,synthetic
+U005,P020,3,May,solo,synthetic
+U005,P010,5,May,solo,synthetic
+U005,P027,4,Jul,solo,synthetic
+U005,P007,3,Apr,solo,synthetic
+U005,P013,4,May,solo,synthetic
+U005,P009,4,Jul,solo,synthetic
+U005,P008,4,Jul,solo,synthetic
+U005,P001,4,Jul,solo,synthetic
+U005,P016,5,Aug,solo,synthetic
+U005,P002,4,Jun,solo,synthetic
+U005,P025,4,Jun,solo,synthetic
+U005,P004,5,Sep,solo,synthetic
+U005,P011,4,Aug,solo,synthetic
+U005,P021,4,Sep,solo,synthetic
+U005,P022,5,Oct,solo,synthetic
+U005,P012,4,Apr,solo,synthetic
+U005,P019,4,Jun,solo,synthetic
+U005,P017,5,Jun,solo,synthetic
+U006,P010,5,May,friends,synthetic
+U006,P021,4,Sep,friends,synthetic
+U006,P025,3,Apr,friends,synthetic
+U006,P022,4,Aug,friends,synthetic
+U006,P018,5,Sep,friends,synthetic
+U006,P003,4,Oct,friends,synthetic
+U006,P005,4,Jun,friends,synthetic
+U006,P015,4,Aug,friends,synthetic
+U006,P001,4,Sep,friends,synthetic
+U006,P002,5,Jun,friends,synthetic
+U007,P021,4,Aug,couple,synthetic
+U007,P018,4,Oct,couple,synthetic
+U007,P016,5,Jul,couple,synthetic
+U007,P004,4,Aug,couple,synthetic
+U007,P011,5,Jul,couple,synthetic
+U007,P008,4,Oct,couple,synthetic
+U007,P007,3,May,couple,synthetic
+U007,P026,3,Apr,couple,synthetic
+U007,P012,4,Aug,couple,synthetic
+U007,P023,3,Jul,couple,synthetic
+U007,P017,5,Oct,couple,synthetic
+U008,P001,5,Jun,family,synthetic
+U008,P025,4,May,family,synthetic
+U008,P012,4,Aug,family,synthetic
+U008,P027,4,Jul,family,synthetic
+U008,P023,4,Sep,family,synthetic
+U008,P010,4,Jul,family,synthetic
+U008,P006,4,Oct,family,synthetic
+U008,P015,4,Aug,family,synthetic
+U008,P021,4,Oct,family,synthetic
+U008,P016,4,Jul,family,synthetic
+U008,P003,5,Aug,family,synthetic
+U008,P017,4,Apr,family,synthetic
+U008,P026,4,Jul,family,synthetic
+U008,P008,4,Jun,family,synthetic
+U008,P014,5,Aug,family,synthetic
+U008,P024,4,Apr,family,synthetic
+U009,P009,5,May,solo,synthetic
+U009,P010,5,Jun,solo,synthetic
+U009,P003,3,Aug,solo,synthetic
+U009,P015,5,Sep,solo,synthetic
+U009,P001,4,Jul,solo,synthetic
+U009,P012,5,Sep,solo,synthetic
+U009,P014,4,Jul,solo,synthetic
+U009,P008,4,Oct,solo,synthetic
+U009,P021,4,Jul,solo,synthetic
+U009,P004,5,May,solo,synthetic
+U009,P023,3,Apr,solo,synthetic
+U009,P007,4,Oct,solo,synthetic
+U009,P019,4,Aug,solo,synthetic
+U009,P005,4,Jul,solo,synthetic
+U009,P018,5,May,solo,synthetic
+U010,P017,4,Apr,family,synthetic
+U010,P008,4,Oct,family,synthetic
+U010,P025,2,Apr,family,synthetic
+U010,P019,4,Oct,family,synthetic
+U010,P015,3,May,family,synthetic
+U010,P016,3,Sep,family,synthetic
+U010,P011,4,Oct,family,synthetic
+U010,P006,4,Aug,family,synthetic
+U010,P009,3,Apr,family,synthetic
+U010,P001,5,Jul,family,synthetic
+U010,P003,4,Apr,family,synthetic
+U010,P021,3,Apr,family,synthetic
+U010,P018,4,Jun,family,synthetic
+U010,P012,5,Sep,family,synthetic
+U010,P002,4,Apr,family,synthetic
+U010,P013,4,Jul,family,synthetic
+U010,P010,4,Jun,family,synthetic
+U011,P024,4,Jun,solo,synthetic
+U011,P016,5,Sep,solo,synthetic
+U011,P012,4,Jul,solo,synthetic
+U011,P017,5,Oct,solo,synthetic
+U011,P015,4,Apr,solo,synthetic
+U011,P025,4,Oct,solo,synthetic
+U011,P021,3,Apr,solo,synthetic
+U011,P005,4,Oct,solo,synthetic
+U011,P003,3,Oct,solo,synthetic
+U011,P004,4,Apr,solo,synthetic
+U011,P002,4,Jun,solo,synthetic
+U011,P018,5,Oct,solo,synthetic
+U011,P009,5,May,solo,synthetic
+U011,P022,3,Oct,solo,synthetic
+U011,P001,4,Oct,solo,synthetic
+U011,P020,4,May,solo,synthetic
+U011,P010,4,Jul,solo,synthetic
+U011,P007,4,Apr,solo,synthetic
+U012,P022,3,May,solo,synthetic
+U012,P008,3,Sep,solo,synthetic
+U012,P025,4,Jul,solo,synthetic
+U012,P009,4,Oct,solo,synthetic
+U012,P001,4,Jun,solo,synthetic
+U012,P003,4,May,solo,synthetic
+U012,P026,4,Jul,solo,synthetic
+U012,P015,4,Jul,solo,synthetic
+U012,P017,4,Oct,solo,synthetic
+U012,P011,4,Aug,solo,synthetic
+U012,P007,4,Jun,solo,synthetic
+U012,P019,4,Jun,solo,synthetic
+U012,P021,3,Jun,solo,synthetic
+U012,P004,5,Apr,solo,synthetic
+U012,P014,3,Sep,solo,synthetic
+U013,P023,3,Sep,friends,synthetic
+U013,P026,4,Sep,friends,synthetic
+U013,P027,3,Jul,friends,synthetic
+U013,P022,4,Apr,friends,synthetic
+U013,P011,5,Jun,friends,synthetic
+U013,P003,4,Jul,friends,synthetic
+U013,P015,4,Apr,friends,synthetic
+U013,P012,5,Aug,friends,synthetic
+U013,P025,4,Apr,friends,synthetic
+U013,P004,5,Jul,friends,synthetic
+U013,P014,5,Oct,friends,synthetic
+U013,P001,4,Apr,friends,synthetic
+U013,P010,4,Jul,friends,synthetic
+U014,P027,3,May,solo,synthetic
+U014,P014,5,Aug,solo,synthetic
+U014,P018,4,May,solo,synthetic
+U014,P021,4,Jun,solo,synthetic
+U014,P013,3,Apr,solo,synthetic
+U014,P016,4,Jun,solo,synthetic
+U014,P025,4,Apr,solo,synthetic
+U014,P002,5,Oct,solo,synthetic
+U014,P008,3,Oct,solo,synthetic
+U014,P006,3,Oct,solo,synthetic
+U014,P011,4,Aug,solo,synthetic
+U014,P003,4,Apr,solo,synthetic
+U014,P026,3,Apr,solo,synthetic
+U014,P022,4,Sep,solo,synthetic
+U014,P015,4,Jul,solo,synthetic
+U014,P009,4,May,solo,synthetic
+U014,P024,4,Apr,solo,synthetic
+U014,P005,5,Aug,solo,synthetic
+U014,P023,4,May,solo,synthetic
+U014,P020,3,Jul,solo,synthetic
+U015,P015,4,May,friends,synthetic
+U015,P008,3,Aug,friends,synthetic
+U015,P003,4,Jul,friends,synthetic
+U015,P017,5,Oct,friends,synthetic
+U015,P012,5,Oct,friends,synthetic
+U015,P021,4,Oct,friends,synthetic
+U015,P024,4,Jul,friends,synthetic
+U015,P014,4,Sep,friends,synthetic
+U015,P009,3,Aug,friends,synthetic
+U015,P001,5,Apr,friends,synthetic
+U015,P023,4,Oct,friends,synthetic
+U015,P005,4,Jul,friends,synthetic
+U015,P004,3,May,friends,synthetic
+U015,P002,4,Oct,friends,synthetic
+U015,P007,3,Jun,friends,synthetic
+U015,P018,4,Aug,friends,synthetic
+U016,P002,4,Sep,family,synthetic
+U016,P004,5,Sep,family,synthetic
+U016,P003,4,Jul,family,synthetic
+U016,P018,3,Sep,family,synthetic
+U016,P005,4,Jun,family,synthetic
+U016,P010,4,Oct,family,synthetic
+U016,P025,3,May,family,synthetic
+U016,P014,4,Oct,family,synthetic
+U017,P016,4,Oct,couple,synthetic
+U017,P020,3,Jul,couple,synthetic
+U017,P003,4,Oct,couple,synthetic
+U017,P022,3,Aug,couple,synthetic
+U017,P018,4,May,couple,synthetic
+U017,P004,5,Jun,couple,synthetic
+U017,P024,3,May,couple,synthetic
+U017,P025,3,May,couple,synthetic
+U017,P010,5,Jul,couple,synthetic
+U017,P021,2,Aug,couple,synthetic
+U017,P008,3,May,couple,synthetic
+U017,P009,4,May,couple,synthetic
+U017,P013,4,Jun,couple,synthetic
+U017,P014,4,Sep,couple,synthetic
+U017,P017,4,Jun,couple,synthetic
+U018,P008,3,Aug,group tour,synthetic
+U018,P003,3,Jul,group tour,synthetic
+U018,P025,4,Oct,group tour,synthetic
+U018,P015,4,Oct,group tour,synthetic
+U018,P019,4,Oct,group tour,synthetic
+U018,P023,3,Sep,group tour,synthetic
+U018,P012,4,Aug,group tour,synthetic
+U018,P002,4,Sep,group tour,synthetic
+U018,P014,4,Oct,group tour,synthetic
+U018,P021,3,Oct,group tour,synthetic
+U018,P010,4,Jun,group tour,synthetic
+U018,P007,3,Aug,group tour,synthetic
+U018,P009,4,Oct,group tour,synthetic
+U018,P020,2,May,group tour,synthetic
+U019,P027,4,Sep,couple,synthetic
+U019,P003,3,Aug,couple,synthetic
+U019,P010,5,Jul,couple,synthetic
+U019,P023,2,May,couple,synthetic
+U019,P020,4,Oct,couple,synthetic
+U019,P007,5,Jul,couple,synthetic
+U019,P005,4,Jun,couple,synthetic
+U019,P017,5,Aug,couple,synthetic
+U019,P025,3,Aug,couple,synthetic
+U019,P015,4,Jun,couple,synthetic
+U019,P009,5,Apr,couple,synthetic
+U019,P011,5,Jul,couple,synthetic
+U019,P012,5,May,couple,synthetic
+U019,P006,3,Oct,couple,synthetic
+U019,P002,5,Jul,couple,synthetic
+U020,P012,5,Oct,friends,synthetic
+U020,P010,4,Jul,friends,synthetic
+U020,P026,3,May,friends,synthetic
+U020,P024,3,Aug,friends,synthetic
+U020,P027,3,Jul,friends,synthetic
+U020,P004,4,Jun,friends,synthetic
+U020,P022,4,May,friends,synthetic
+U020,P006,5,Apr,friends,synthetic
+U020,P002,4,Apr,friends,synthetic
+U020,P015,4,Aug,friends,synthetic
+U020,P005,5,May,friends,synthetic
+U020,P021,3,Oct,friends,synthetic
+U020,P018,4,Jun,friends,synthetic
+U020,P014,5,Oct,friends,synthetic
+U020,P011,4,Oct,friends,synthetic
+U020,P025,4,Sep,friends,synthetic
+U021,P003,5,May,couple,synthetic
+U021,P020,4,Apr,couple,synthetic
+U021,P016,4,Jul,couple,synthetic
+U021,P014,5,Jun,couple,synthetic
+U021,P023,4,Jun,couple,synthetic
+U021,P004,4,Apr,couple,synthetic
+U021,P008,3,Sep,couple,synthetic
+U021,P007,3,Jun,couple,synthetic
+U022,P021,5,Apr,group tour,synthetic
+U022,P018,4,Apr,group tour,synthetic
+U022,P014,5,Sep,group tour,synthetic
+U022,P008,3,Jun,group tour,synthetic
+U022,P010,5,Sep,group tour,synthetic
+U022,P005,4,Jun,group tour,synthetic
+U022,P025,4,Apr,group tour,synthetic
+U022,P015,5,Apr,group tour,synthetic
+U022,P011,5,Jun,group tour,synthetic
+U023,P018,4,Apr,solo,synthetic
+U023,P005,4,Jun,solo,synthetic
+U023,P016,5,Apr,solo,synthetic
+U023,P017,4,Sep,solo,synthetic
+U023,P014,5,May,solo,synthetic
+U023,P019,4,Jul,solo,synthetic
+U023,P025,3,Apr,solo,synthetic
+U023,P024,3,Jun,solo,synthetic
+U023,P015,3,Jun,solo,synthetic
+U023,P004,5,Sep,solo,synthetic
+U023,P027,3,Jul,solo,synthetic
+U023,P020,3,Apr,solo,synthetic
+U023,P023,2,Jun,solo,synthetic
+U024,P019,5,Oct,group tour,synthetic
+U024,P012,5,Apr,group tour,synthetic
+U024,P006,3,May,group tour,synthetic
+U024,P004,4,Jun,group tour,synthetic
+U024,P005,5,May,group tour,synthetic
+U024,P014,4,Jul,group tour,synthetic
+U024,P011,4,Apr,group tour,synthetic
+U024,P025,3,Apr,group tour,synthetic
+U024,P010,4,Jun,group tour,synthetic
+U025,P005,5,Jul,group tour,synthetic
+U025,P001,5,May,group tour,synthetic
+U025,P012,5,Jun,group tour,synthetic
+U025,P015,5,Jul,group tour,synthetic
+U025,P002,4,May,group tour,synthetic
+U025,P020,4,Jun,group tour,synthetic
+U025,P014,5,Oct,group tour,synthetic
+U025,P011,3,Aug,group tour,synthetic
+U025,P010,5,Sep,group tour,synthetic
+U025,P004,5,May,group tour,synthetic
+U025,P022,3,Oct,group tour,synthetic
+U025,P026,4,May,group tour,synthetic
+U025,P008,4,Aug,group tour,synthetic
+U025,P018,4,Aug,group tour,synthetic
+U025,P013,5,Apr,group tour,synthetic
+U025,P003,4,Jul,group tour,synthetic
+U025,P007,4,Sep,group tour,synthetic
+U026,P008,4,May,solo,synthetic
+U026,P023,3,Aug,solo,synthetic
+U026,P001,4,Sep,solo,synthetic
+U026,P003,4,Jun,solo,synthetic
+U026,P005,5,Sep,solo,synthetic
+U026,P002,4,May,solo,synthetic
+U026,P016,4,Oct,solo,synthetic
+U026,P012,4,Apr,solo,synthetic
+U026,P022,2,Apr,solo,synthetic
+U026,P020,4,Oct,solo,synthetic
+U026,P009,3,Sep,solo,synthetic
+U026,P007,4,Jul,solo,synthetic
+U026,P010,5,Aug,solo,synthetic
+U026,P017,5,Oct,solo,synthetic
+U026,P015,4,May,solo,synthetic
+U026,P018,4,May,solo,synthetic
+U026,P011,5,Aug,solo,synthetic
+U027,P019,5,Aug,solo,synthetic
+U027,P006,4,Oct,solo,synthetic
+U027,P025,2,May,solo,synthetic
+U027,P013,5,Aug,solo,synthetic
+U027,P012,4,Oct,solo,synthetic
+U027,P016,4,Aug,solo,synthetic
+U027,P002,4,May,solo,synthetic
+U027,P020,4,May,solo,synthetic
+U027,P004,4,Jul,solo,synthetic
+U027,P018,4,Sep,solo,synthetic
+U027,P009,4,Jun,solo,synthetic
+U027,P010,3,May,solo,synthetic
+U027,P014,5,Jun,solo,synthetic
+U027,P023,3,Jul,solo,synthetic
+U028,P002,5,Oct,family,synthetic
+U028,P019,4,Sep,family,synthetic
+U028,P013,4,Sep,family,synthetic
+U028,P018,5,Oct,family,synthetic
+U028,P011,5,Jul,family,synthetic
+U028,P007,4,Aug,family,synthetic
+U028,P022,4,Sep,family,synthetic
+U028,P021,3,Sep,family,synthetic
+U028,P015,5,Jul,family,synthetic
+U028,P009,5,Aug,family,synthetic
+U028,P003,4,Sep,family,synthetic
+U028,P025,4,Sep,family,synthetic
+U028,P004,5,Aug,family,synthetic
+U028,P026,5,May,family,synthetic
+U028,P006,4,Apr,family,synthetic
+U028,P016,4,Oct,family,synthetic
+U028,P024,4,May,family,synthetic
+U029,P021,4,Oct,family,synthetic
+U029,P001,4,Apr,family,synthetic
+U029,P016,3,Sep,family,synthetic
+U029,P007,3,Oct,family,synthetic
+U029,P004,5,Apr,family,synthetic
+U029,P003,4,Jun,family,synthetic
+U029,P018,3,Aug,family,synthetic
+U029,P009,3,Aug,family,synthetic
+U029,P019,3,Jun,family,synthetic
+U029,P002,4,Aug,family,synthetic
+U029,P015,4,Jul,family,synthetic
+U029,P020,3,Apr,family,synthetic
+U029,P017,3,Aug,family,synthetic
+U029,P023,3,Aug,family,synthetic
+U029,P005,3,Aug,family,synthetic
+U029,P025,2,Oct,family,synthetic
+U029,P012,4,May,family,synthetic
+U029,P026,4,Jul,family,synthetic
+U030,P027,4,Jul,friends,synthetic
+U030,P023,4,Oct,friends,synthetic
+U030,P003,5,Jul,friends,synthetic
+U030,P012,4,Jul,friends,synthetic
+U030,P025,3,Jun,friends,synthetic
+U030,P013,4,Oct,friends,synthetic
+U030,P018,3,Aug,friends,synthetic
+U030,P005,5,May,friends,synthetic
+U030,P007,4,May,friends,synthetic
+U030,P020,3,Apr,friends,synthetic
+U030,P014,5,May,friends,synthetic
+U030,P008,5,May,friends,synthetic
+U030,P006,3,Aug,friends,synthetic
+U030,P004,4,May,friends,synthetic
+U031,P023,4,Oct,family,synthetic
+U031,P026,4,Jul,family,synthetic
+U031,P021,4,Apr,family,synthetic
+U031,P017,4,Jun,family,synthetic
+U031,P014,5,Sep,family,synthetic
+U031,P002,4,May,family,synthetic
+U031,P010,5,Sep,family,synthetic
+U031,P008,4,Sep,family,synthetic
+U031,P020,3,Sep,family,synthetic
+U031,P012,4,Jul,family,synthetic
+U031,P006,4,Oct,family,synthetic
+U031,P018,3,May,family,synthetic
+U031,P013,4,Aug,family,synthetic
+U031,P022,3,Jul,family,synthetic
+U031,P004,4,Apr,family,synthetic
+U031,P015,5,Oct,family,synthetic
+U031,P011,4,Apr,family,synthetic
+U031,P003,4,Aug,family,synthetic
+U031,P024,3,Apr,family,synthetic
+U032,P017,4,May,family,synthetic
+U032,P016,4,Jul,family,synthetic
+U032,P020,3,Sep,family,synthetic
+U032,P004,4,Jul,family,synthetic
+U032,P019,5,Jul,family,synthetic
+U032,P026,3,May,family,synthetic
+U032,P010,3,Sep,family,synthetic
+U032,P024,3,Sep,family,synthetic
+U032,P025,3,Jun,family,synthetic
+U032,P018,3,Jun,family,synthetic
+U032,P009,4,Oct,family,synthetic
+U032,P014,4,Aug,family,synthetic
+U032,P001,4,Jun,family,synthetic
+U032,P022,2,Apr,family,synthetic
+U032,P027,4,May,family,synthetic
+U032,P015,5,Jul,family,synthetic
+U032,P003,4,Apr,family,synthetic
+U032,P002,5,Sep,family,synthetic
+U032,P007,3,Jul,family,synthetic
+U033,P009,5,Apr,group tour,synthetic
+U033,P007,4,Jul,group tour,synthetic
+U033,P027,4,Sep,group tour,synthetic
+U033,P010,4,Jun,group tour,synthetic
+U033,P025,4,Apr,group tour,synthetic
+U033,P006,3,Aug,group tour,synthetic
+U033,P005,5,Apr,group tour,synthetic
+U033,P001,5,Sep,group tour,synthetic
+U033,P017,5,Apr,group tour,synthetic
+U034,P017,5,Sep,couple,synthetic
+U034,P004,5,Oct,couple,synthetic
+U034,P002,3,Oct,couple,synthetic
+U034,P024,3,Sep,couple,synthetic
+U034,P020,4,May,couple,synthetic
+U034,P015,4,Sep,couple,synthetic
+U034,P018,3,Oct,couple,synthetic
+U034,P013,4,Apr,couple,synthetic
+U034,P005,4,Oct,couple,synthetic
+U034,P016,5,Jul,couple,synthetic
+U034,P007,4,May,couple,synthetic
+U034,P009,4,Jun,couple,synthetic
+U034,P012,5,Jul,couple,synthetic
+U034,P001,3,Oct,couple,synthetic
+U034,P003,4,Apr,couple,synthetic
+U034,P010,4,Jul,couple,synthetic
+U034,P021,3,Jul,couple,synthetic
+U035,P002,5,May,group tour,synthetic
+U035,P009,5,Jun,group tour,synthetic
+U035,P003,5,Apr,group tour,synthetic
+U035,P014,5,Jun,group tour,synthetic
+U035,P018,3,Sep,group tour,synthetic
+U035,P022,4,Oct,group tour,synthetic
+U035,P005,5,Aug,group tour,synthetic
+U035,P004,5,May,group tour,synthetic
+U035,P016,4,Jun,group tour,synthetic
+U035,P019,5,Oct,group tour,synthetic
+U035,P001,5,Oct,group tour,synthetic
+U035,P026,5,May,group tour,synthetic
+U035,P006,3,May,group tour,synthetic
+U036,P002,4,Sep,couple,synthetic
+U036,P006,2,Jun,couple,synthetic
+U036,P004,4,Aug,couple,synthetic
+U036,P021,3,Aug,couple,synthetic
+U036,P005,5,Aug,couple,synthetic
+U036,P026,3,Jul,couple,synthetic
+U036,P009,5,Jun,couple,synthetic
+U036,P020,3,Jul,couple,synthetic
+U036,P017,4,Jul,couple,synthetic
+U036,P014,5,Oct,couple,synthetic
+U036,P015,4,Jul,couple,synthetic
+U036,P018,4,Apr,couple,synthetic
+U036,P027,3,Sep,couple,synthetic
+U036,P001,5,Sep,couple,synthetic
+U036,P008,4,May,couple,synthetic
+U036,P011,4,May,couple,synthetic
+U036,P023,3,Jun,couple,synthetic
+U036,P019,4,Jun,couple,synthetic
+U036,P016,4,Apr,couple,synthetic
+U037,P015,4,May,couple,synthetic
+U037,P009,5,Oct,couple,synthetic
+U037,P024,4,May,couple,synthetic
+U037,P014,3,Jul,couple,synthetic
+U037,P016,4,Aug,couple,synthetic
+U037,P012,5,Oct,couple,synthetic
+U037,P018,5,Aug,couple,synthetic
+U037,P006,4,Aug,couple,synthetic
+U037,P013,5,Sep,couple,synthetic
+U037,P027,4,Aug,couple,synthetic
+U037,P011,4,Aug,couple,synthetic
+U037,P021,4,Jul,couple,synthetic
+U037,P005,4,Jun,couple,synthetic
+U037,P004,5,Apr,couple,synthetic
+U037,P002,4,Sep,couple,synthetic
+U037,P019,4,May,couple,synthetic
+U037,P017,5,Jul,couple,synthetic
+U038,P025,3,May,friends,synthetic
+U038,P001,5,Jul,friends,synthetic
+U038,P004,4,Oct,friends,synthetic
+U038,P012,5,Oct,friends,synthetic
+U038,P009,4,Sep,friends,synthetic
+U038,P014,4,Aug,friends,synthetic
+U038,P027,5,Sep,friends,synthetic
+U038,P026,4,Oct,friends,synthetic
+U038,P016,5,Jul,friends,synthetic
+U038,P021,4,May,friends,synthetic
+U038,P011,4,Jun,friends,synthetic
+U038,P015,5,Aug,friends,synthetic
+U038,P013,4,Sep,friends,synthetic
+U038,P018,5,May,friends,synthetic
+U039,P025,3,Jun,solo,synthetic
+U039,P018,4,Jul,solo,synthetic
+U039,P002,3,Jun,solo,synthetic
+U039,P026,3,Apr,solo,synthetic
+U039,P021,4,Jun,solo,synthetic
+U039,P010,4,Apr,solo,synthetic
+U039,P012,5,Jul,solo,synthetic
+U039,P019,5,Jul,solo,synthetic
+U040,P024,4,May,solo,synthetic
+U040,P009,3,May,solo,synthetic
+U040,P008,3,Aug,solo,synthetic
+U040,P017,4,Oct,solo,synthetic
+U040,P023,3,Aug,solo,synthetic
+U040,P021,5,Jun,solo,synthetic
+U040,P022,4,Jun,solo,synthetic
+U040,P010,4,Aug,solo,synthetic
+U040,P003,5,Sep,solo,synthetic
+U040,P013,4,Oct,solo,synthetic
+U040,P001,4,Jun,solo,synthetic
+U040,P011,3,Sep,solo,synthetic
+U040,P018,5,Sep,solo,synthetic
+U041,P001,4,Apr,solo,synthetic
+U041,P008,3,Jul,solo,synthetic
+U041,P009,5,May,solo,synthetic
+U041,P015,4,Aug,solo,synthetic
+U041,P014,3,Apr,solo,synthetic
+U041,P022,3,Oct,solo,synthetic
+U041,P024,4,May,solo,synthetic
+U041,P021,4,Aug,solo,synthetic
+U041,P027,3,May,solo,synthetic
+U041,P004,4,Aug,solo,synthetic
+U041,P017,4,May,solo,synthetic
+U041,P025,3,Apr,solo,synthetic
+U041,P005,4,Jul,solo,synthetic
+U041,P026,4,Sep,solo,synthetic
+U041,P002,5,Aug,solo,synthetic
+U041,P020,4,Sep,solo,synthetic
+U041,P007,4,Aug,solo,synthetic
+U041,P011,4,Oct,solo,synthetic
+U042,P008,4,Aug,friends,synthetic
+U042,P025,3,Jul,friends,synthetic
+U042,P014,5,May,friends,synthetic
+U042,P020,3,Aug,friends,synthetic
+U042,P015,4,May,friends,synthetic
+U042,P001,4,Jul,friends,synthetic
+U042,P017,4,Jun,friends,synthetic
+U042,P016,4,Apr,friends,synthetic
+U042,P022,4,Sep,friends,synthetic
+U042,P007,5,Aug,friends,synthetic
+U042,P012,4,Apr,friends,synthetic
+U042,P021,4,Oct,friends,synthetic
+U042,P023,4,Jul,friends,synthetic
+U042,P010,3,May,friends,synthetic
+U042,P004,5,Aug,friends,synthetic
+U042,P019,4,Apr,friends,synthetic
+U042,P009,4,May,friends,synthetic
+U042,P018,3,Jun,friends,synthetic
+U043,P009,4,Sep,group tour,synthetic
+U043,P010,4,Aug,group tour,synthetic
+U043,P019,4,Sep,group tour,synthetic
+U043,P018,4,May,group tour,synthetic
+U043,P027,4,Aug,group tour,synthetic
+U043,P003,4,Apr,group tour,synthetic
+U043,P002,5,Jul,group tour,synthetic
+U043,P015,5,Oct,group tour,synthetic
+U043,P007,3,Jul,group tour,synthetic
+U043,P024,3,Jun,group tour,synthetic
+U043,P004,5,Jul,group tour,synthetic
+U043,P011,5,Apr,group tour,synthetic
+U043,P008,4,Jun,group tour,synthetic
+U043,P001,5,May,group tour,synthetic
+U044,P002,4,Oct,friends,synthetic
+U044,P014,5,May,friends,synthetic
+U044,P026,4,Sep,friends,synthetic
+U044,P004,5,Sep,friends,synthetic
+U044,P017,4,Jun,friends,synthetic
+U044,P005,5,Apr,friends,synthetic
+U044,P013,4,Jul,friends,synthetic
+U044,P011,5,Jul,friends,synthetic
+U044,P021,3,Oct,friends,synthetic
+U044,P008,4,Apr,friends,synthetic
+U044,P016,4,Oct,friends,synthetic
+U044,P022,3,Apr,friends,synthetic
+U044,P010,5,Jun,friends,synthetic
+U044,P003,5,Jun,friends,synthetic
+U044,P027,3,May,friends,synthetic
+U044,P015,4,Jun,friends,synthetic
+U045,P014,3,Jun,couple,synthetic
+U045,P017,5,Jun,couple,synthetic
+U045,P015,4,Sep,couple,synthetic
+U045,P024,3,Jun,couple,synthetic
+U045,P027,4,Apr,couple,synthetic
+U045,P021,3,Apr,couple,synthetic
+U045,P005,4,Oct,couple,synthetic
+U045,P004,4,May,couple,synthetic
+U045,P020,4,Jun,couple,synthetic
+U045,P010,4,Apr,couple,synthetic
+U045,P022,3,Oct,couple,synthetic
+U045,P019,5,Aug,couple,synthetic
+U046,P016,5,Apr,solo,synthetic
+U046,P019,4,Sep,solo,synthetic
+U046,P005,4,Apr,solo,synthetic
+U046,P015,5,Sep,solo,synthetic
+U046,P011,4,Aug,solo,synthetic
+U046,P004,5,Oct,solo,synthetic
+U046,P010,4,Sep,solo,synthetic
+U046,P002,4,Oct,solo,synthetic
+U046,P001,4,Oct,solo,synthetic
+U046,P026,3,Sep,solo,synthetic
+U046,P012,5,Jul,solo,synthetic
+U046,P009,4,Apr,solo,synthetic
+U046,P017,5,Oct,solo,synthetic
+U046,P006,3,Jul,solo,synthetic
+U046,P020,4,Jun,solo,synthetic
+U047,P018,5,May,friends,synthetic
+U047,P016,5,Aug,friends,synthetic
+U047,P014,4,Aug,friends,synthetic
+U047,P005,4,Oct,friends,synthetic
+U047,P023,3,Jul,friends,synthetic
+U047,P015,3,Apr,friends,synthetic
+U047,P007,5,Jul,friends,synthetic
+U047,P012,4,Sep,friends,synthetic
+U047,P022,3,May,friends,synthetic
+U047,P019,5,Jul,friends,synthetic
+U047,P020,4,Sep,friends,synthetic
+U047,P002,3,May,friends,synthetic
+U047,P001,4,Jul,friends,synthetic
+U047,P009,4,Aug,friends,synthetic
+U047,P021,2,Aug,friends,synthetic
+U048,P021,5,May,friends,synthetic
+U048,P024,3,Jul,friends,synthetic
+U048,P026,4,Apr,friends,synthetic
+U048,P008,4,Jul,friends,synthetic
+U048,P017,5,May,friends,synthetic
+U048,P011,5,Oct,friends,synthetic
+U048,P007,4,Apr,friends,synthetic
+U048,P022,3,Apr,friends,synthetic
+U049,P006,3,Sep,friends,synthetic
+U049,P021,3,Sep,friends,synthetic
+U049,P014,5,Sep,friends,synthetic
+U049,P019,4,Aug,friends,synthetic
+U049,P002,4,Aug,friends,synthetic
+U049,P003,4,Sep,friends,synthetic
+U049,P001,5,Sep,friends,synthetic
+U049,P027,4,Apr,friends,synthetic
+U049,P023,4,Oct,friends,synthetic
+U050,P017,5,Aug,group tour,synthetic
+U050,P010,5,Apr,group tour,synthetic
+U050,P005,5,Sep,group tour,synthetic
+U050,P004,5,Oct,group tour,synthetic
+U050,P016,5,Jun,group tour,synthetic
+U050,P019,4,Jul,group tour,synthetic
+U050,P015,5,Sep,group tour,synthetic
+U050,P001,5,Aug,group tour,synthetic
+U051,P005,4,Jun,friends,synthetic
+U051,P008,4,May,friends,synthetic
+U051,P010,5,Aug,friends,synthetic
+U051,P015,4,May,friends,synthetic
+U051,P026,3,Apr,friends,synthetic
+U051,P003,4,Apr,friends,synthetic
+U051,P004,4,Jul,friends,synthetic
+U051,P025,3,Oct,friends,synthetic
+U051,P017,5,May,friends,synthetic
+U051,P007,5,Sep,friends,synthetic
+U051,P024,4,Oct,friends,synthetic
+U051,P009,4,Jun,friends,synthetic
+U051,P021,4,May,friends,synthetic
+U051,P012,4,Jun,friends,synthetic
+U051,P022,5,Oct,friends,synthetic
+U051,P020,4,Aug,friends,synthetic
+U052,P018,3,Sep,solo,synthetic
+U052,P024,4,Sep,solo,synthetic
+U052,P016,5,Sep,solo,synthetic
+U052,P020,4,Jun,solo,synthetic
+U052,P004,5,Jul,solo,synthetic
+U052,P011,5,Jul,solo,synthetic
+U052,P001,5,Jul,solo,synthetic
+U052,P006,3,Aug,solo,synthetic
+U052,P019,4,Aug,solo,synthetic
+U052,P027,4,Apr,solo,synthetic
+U052,P003,4,Jul,solo,synthetic
+U052,P009,4,Oct,solo,synthetic
+U052,P021,2,Sep,solo,synthetic
+U052,P005,5,May,solo,synthetic
+U052,P015,5,Apr,solo,synthetic
+U053,P017,5,Oct,couple,synthetic
+U053,P012,5,Jul,couple,synthetic
+U053,P019,3,May,couple,synthetic
+U053,P001,5,Jul,couple,synthetic
+U053,P011,4,May,couple,synthetic
+U053,P022,3,Sep,couple,synthetic
+U053,P004,4,Oct,couple,synthetic
+U053,P016,4,Aug,couple,synthetic
+U053,P014,5,Jul,couple,synthetic
+U053,P018,3,Jul,couple,synthetic
+U053,P003,4,Oct,couple,synthetic
+U053,P024,4,Apr,couple,synthetic
+U053,P008,5,Oct,couple,synthetic
+U053,P025,3,Sep,couple,synthetic
+U053,P013,4,Apr,couple,synthetic
+U053,P005,5,Jun,couple,synthetic
+U053,P009,5,Jul,couple,synthetic
+U053,P023,3,May,couple,synthetic
+U054,P010,5,Oct,friends,synthetic
+U054,P015,4,Jun,friends,synthetic
+U054,P005,3,Jul,friends,synthetic
+U054,P009,4,Jul,friends,synthetic
+U054,P001,5,Oct,friends,synthetic
+U054,P021,4,Oct,friends,synthetic
+U054,P007,4,Oct,friends,synthetic
+U054,P014,4,Aug,friends,synthetic
+U054,P008,4,Jun,friends,synthetic
+U054,P025,3,Sep,friends,synthetic
+U054,P011,4,Oct,friends,synthetic
+U054,P023,3,May,friends,synthetic
+U054,P022,3,Jul,friends,synthetic
+U054,P004,4,Sep,friends,synthetic
+U054,P020,4,Aug,friends,synthetic
+U054,P016,4,Oct,friends,synthetic
+U054,P003,4,Apr,friends,synthetic
+U055,P020,3,Apr,group tour,synthetic
+U055,P011,4,Jun,group tour,synthetic
+U055,P002,4,Oct,group tour,synthetic
+U055,P014,4,Oct,group tour,synthetic
+U055,P001,4,Apr,group tour,synthetic
+U055,P025,4,Oct,group tour,synthetic
+U055,P004,4,Oct,group tour,synthetic
+U055,P015,4,Sep,group tour,synthetic
+U055,P010,4,May,group tour,synthetic
+U055,P009,4,Oct,group tour,synthetic
+U055,P003,5,Oct,group tour,synthetic
+U055,P019,4,Aug,group tour,synthetic
+U055,P027,4,Sep,group tour,synthetic
+U056,P009,4,May,family,synthetic
+U056,P004,5,Jul,family,synthetic
+U056,P005,3,Jul,family,synthetic
+U056,P006,3,Jun,family,synthetic
+U056,P020,4,Jun,family,synthetic
+U056,P016,5,Jul,family,synthetic
+U056,P015,4,Apr,family,synthetic
+U056,P021,3,Aug,family,synthetic
+U056,P018,4,Jun,family,synthetic
+U056,P002,5,Jun,family,synthetic
+U056,P017,4,Jun,family,synthetic
+U056,P003,3,Jun,family,synthetic
+U056,P019,3,May,family,synthetic
+U057,P021,3,Apr,couple,synthetic
+U057,P013,4,Apr,couple,synthetic
+U057,P005,4,May,couple,synthetic
+U057,P023,3,Sep,couple,synthetic
+U057,P007,4,Apr,couple,synthetic
+U057,P012,4,Sep,couple,synthetic
+U057,P027,2,Apr,couple,synthetic
+U057,P001,5,Oct,couple,synthetic
+U057,P010,4,Sep,couple,synthetic
+U057,P024,4,May,couple,synthetic
+U057,P014,5,Oct,couple,synthetic
+U057,P011,4,Jul,couple,synthetic
+U058,P023,4,Sep,solo,synthetic
+U058,P015,4,Jun,solo,synthetic
+U058,P004,5,Sep,solo,synthetic
+U058,P018,4,Aug,solo,synthetic
+U058,P020,4,Jun,solo,synthetic
+U058,P009,5,Jun,solo,synthetic
+U058,P021,5,Jun,solo,synthetic
+U058,P008,4,Apr,solo,synthetic
+U058,P026,4,Oct,solo,synthetic
+U058,P007,4,Apr,solo,synthetic
+U058,P006,3,Sep,solo,synthetic
+U058,P017,5,Apr,solo,synthetic
+U058,P012,4,Jun,solo,synthetic
+U058,P016,4,Oct,solo,synthetic
+U058,P003,5,Aug,solo,synthetic
+U058,P022,3,May,solo,synthetic
+U058,P019,5,Aug,solo,synthetic
+U058,P013,4,Jul,solo,synthetic
+U058,P027,3,Oct,solo,synthetic
+U058,P010,3,Oct,solo,synthetic
+U059,P012,4,Aug,solo,synthetic
+U059,P022,3,Sep,solo,synthetic
+U059,P009,4,Jul,solo,synthetic
+U059,P004,4,Apr,solo,synthetic
+U059,P019,4,Oct,solo,synthetic
+U059,P003,4,Apr,solo,synthetic
+U059,P007,3,Aug,solo,synthetic
+U059,P021,4,Jun,solo,synthetic
+U059,P018,3,Sep,solo,synthetic
+U059,P017,4,Jun,solo,synthetic
+U059,P010,5,Jul,solo,synthetic
+U060,P022,3,Apr,group tour,synthetic
+U060,P007,4,Aug,group tour,synthetic
+U060,P016,4,Apr,group tour,synthetic
+U060,P018,4,Jun,group tour,synthetic
+U060,P014,5,Jul,group tour,synthetic
+U060,P008,4,Oct,group tour,synthetic
+U060,P005,5,Sep,group tour,synthetic
+U060,P001,4,Aug,group tour,synthetic
+U060,P017,5,Aug,group tour,synthetic
+U060,P026,4,Apr,group tour,synthetic
+U060,P024,3,Jul,group tour,synthetic
+U060,P020,4,Apr,group tour,synthetic
+U060,P021,4,Aug,group tour,synthetic
+U060,P025,4,Sep,group tour,synthetic
+U060,P015,5,Sep,group tour,synthetic
+U060,P003,5,Aug,group tour,synthetic
+U060,P010,4,Jun,group tour,synthetic
+U060,P023,3,Apr,group tour,synthetic
+U060,P011,4,Jun,group tour,synthetic
+U060,P009,4,Apr,group tour,synthetic
+U061,P008,4,Jun,solo,synthetic
+U061,P014,4,Apr,solo,synthetic
+U061,P020,4,Jul,solo,synthetic
+U061,P001,5,May,solo,synthetic
+U061,P023,2,Oct,solo,synthetic
+U061,P017,5,Aug,solo,synthetic
+U061,P004,4,Apr,solo,synthetic
+U061,P002,3,Jul,solo,synthetic
+U061,P007,4,Sep,solo,synthetic
+U061,P021,4,May,solo,synthetic
+U061,P027,3,Oct,solo,synthetic
+U061,P024,4,Apr,solo,synthetic
+U061,P012,5,Sep,solo,synthetic
+U061,P003,5,Apr,solo,synthetic
+U061,P013,5,May,solo,synthetic
+U061,P006,4,Jul,solo,synthetic
+U061,P025,3,May,solo,synthetic
+U062,P003,3,Jun,family,synthetic
+U062,P011,5,Jul,family,synthetic
+U062,P014,5,Aug,family,synthetic
+U062,P020,2,Sep,family,synthetic
+U062,P027,4,Jun,family,synthetic
+U062,P018,4,Apr,family,synthetic
+U062,P022,4,Aug,family,synthetic
+U062,P008,4,May,family,synthetic
+U062,P013,4,Jun,family,synthetic
+U062,P002,4,Apr,family,synthetic
+U062,P004,4,Aug,family,synthetic
+U062,P010,5,Jul,family,synthetic
+U062,P006,4,May,family,synthetic
+U062,P021,5,Aug,family,synthetic
+U062,P009,4,May,family,synthetic
+U062,P007,4,Aug,family,synthetic
+U062,P001,3,Sep,family,synthetic
+U062,P005,3,Jul,family,synthetic
+U062,P012,4,Jun,family,synthetic
+U062,P016,3,Aug,family,synthetic
+U063,P015,5,Jul,family,synthetic
+U063,P008,5,Jun,family,synthetic
+U063,P024,4,May,family,synthetic
+U063,P027,4,Jul,family,synthetic
+U063,P001,4,May,family,synthetic
+U063,P016,2,Apr,family,synthetic
+U063,P002,4,Oct,family,synthetic
+U063,P006,3,Oct,family,synthetic
+U063,P003,4,Jul,family,synthetic
+U064,P019,5,Jun,couple,synthetic
+U064,P003,4,Jun,couple,synthetic
+U064,P004,5,May,couple,synthetic
+U064,P010,4,Jul,couple,synthetic
+U064,P024,3,Apr,couple,synthetic
+U064,P018,4,Aug,couple,synthetic
+U064,P017,5,Oct,couple,synthetic
+U064,P001,5,Apr,couple,synthetic
+U064,P022,3,Jun,couple,synthetic
+U064,P020,4,Apr,couple,synthetic
+U064,P021,2,Oct,couple,synthetic
+U064,P016,4,Aug,couple,synthetic
+U064,P002,3,Aug,couple,synthetic
+U064,P009,5,Sep,couple,synthetic
+U064,P007,5,May,couple,synthetic
+U064,P011,4,May,couple,synthetic
+U064,P005,4,May,couple,synthetic
+U064,P014,5,Jul,couple,synthetic
+U064,P023,3,Jun,couple,synthetic
+U064,P015,4,Apr,couple,synthetic
+U065,P005,3,Sep,group tour,synthetic
+U065,P023,4,Oct,group tour,synthetic
+U065,P010,5,Sep,group tour,synthetic
+U065,P002,3,Sep,group tour,synthetic
+U065,P018,4,Aug,group tour,synthetic
+U065,P017,4,May,group tour,synthetic
+U065,P004,5,Apr,group tour,synthetic
+U065,P013,3,Jul,group tour,synthetic
+U065,P009,4,Jun,group tour,synthetic
+U065,P019,4,Jul,group tour,synthetic
+U066,P002,4,May,solo,synthetic
+U066,P001,4,Jun,solo,synthetic
+U066,P011,5,Aug,solo,synthetic
+U066,P005,5,Oct,solo,synthetic
+U066,P023,3,Apr,solo,synthetic
+U066,P013,3,Sep,solo,synthetic
+U066,P009,4,Aug,solo,synthetic
+U066,P025,3,May,solo,synthetic
+U066,P006,4,May,solo,synthetic
+U067,P015,4,Sep,couple,synthetic
+U067,P023,4,Sep,couple,synthetic
+U067,P024,5,May,couple,synthetic
+U067,P012,4,Oct,couple,synthetic
+U067,P009,4,Sep,couple,synthetic
+U067,P008,3,Sep,couple,synthetic
+U067,P006,4,Jun,couple,synthetic
+U067,P002,5,Oct,couple,synthetic
+U067,P010,3,Jun,couple,synthetic
+U067,P027,4,Jul,couple,synthetic
+U067,P016,4,Aug,couple,synthetic
+U067,P004,5,May,couple,synthetic
+U067,P014,5,Sep,couple,synthetic
+U067,P019,4,Jul,couple,synthetic
+U067,P011,4,Jun,couple,synthetic
+U068,P003,5,Aug,solo,synthetic
+U068,P020,4,Jun,solo,synthetic
+U068,P008,4,Oct,solo,synthetic
+U068,P022,4,Oct,solo,synthetic
+U068,P024,4,May,solo,synthetic
+U068,P004,4,Sep,solo,synthetic
+U068,P012,4,Jul,solo,synthetic
+U068,P026,4,May,solo,synthetic
+U068,P013,5,Sep,solo,synthetic
+U068,P021,4,Sep,solo,synthetic
+U068,P016,5,Sep,solo,synthetic
+U068,P010,4,Apr,solo,synthetic
+U068,P005,5,Sep,solo,synthetic
+U068,P019,5,Sep,solo,synthetic
+U068,P014,4,May,solo,synthetic
+U068,P015,4,Aug,solo,synthetic
+U068,P017,5,Apr,solo,synthetic
+U069,P009,4,May,friends,synthetic
+U069,P006,3,Oct,friends,synthetic
+U069,P025,3,Aug,friends,synthetic
+U069,P001,3,Jul,friends,synthetic
+U069,P027,3,Jul,friends,synthetic
+U069,P018,3,Oct,friends,synthetic
+U069,P020,4,May,friends,synthetic
+U069,P019,5,Jul,friends,synthetic
+U069,P004,4,Apr,friends,synthetic
+U069,P016,5,May,friends,synthetic
+U069,P017,5,Jul,friends,synthetic
+U069,P003,3,Jun,friends,synthetic
+U069,P015,4,Oct,friends,synthetic
+U069,P002,4,Oct,friends,synthetic
+U069,P007,3,Oct,friends,synthetic
+U070,P020,3,Apr,group tour,synthetic
+U070,P024,4,Sep,group tour,synthetic
+U070,P013,3,Oct,group tour,synthetic
+U070,P023,3,Apr,group tour,synthetic
+U070,P009,4,Jul,group tour,synthetic
+U070,P015,5,Jun,group tour,synthetic
+U070,P007,5,May,group tour,synthetic
+U070,P017,4,Jul,group tour,synthetic
+U070,P027,3,Sep,group tour,synthetic
+U071,P021,4,Apr,friends,synthetic
+U071,P009,3,Oct,friends,synthetic
+U071,P023,4,Jun,friends,synthetic
+U071,P015,4,Apr,friends,synthetic
+U071,P014,4,Apr,friends,synthetic
+U071,P006,3,Oct,friends,synthetic
+U071,P022,3,Aug,friends,synthetic
+U071,P010,4,Oct,friends,synthetic
+U071,P017,4,Aug,friends,synthetic
+U071,P001,4,Oct,friends,synthetic
+U071,P020,4,Jun,friends,synthetic
+U071,P011,4,Apr,friends,synthetic
+U071,P013,4,Jun,friends,synthetic
+U072,P014,4,Oct,group tour,synthetic
+U072,P025,3,Apr,group tour,synthetic
+U072,P012,5,Aug,group tour,synthetic
+U072,P027,4,May,group tour,synthetic
+U072,P004,4,Jul,group tour,synthetic
+U072,P019,5,Jun,group tour,synthetic
+U072,P015,4,May,group tour,synthetic
+U072,P013,4,Apr,group tour,synthetic
+U072,P018,4,Jun,group tour,synthetic
+U073,P010,4,Jul,couple,synthetic
+U073,P025,3,Jul,couple,synthetic
+U073,P015,5,Sep,couple,synthetic
+U073,P006,4,Aug,couple,synthetic
+U073,P011,3,Apr,couple,synthetic
+U073,P002,5,Sep,couple,synthetic
+U073,P019,5,Aug,couple,synthetic
+U073,P013,4,Jul,couple,synthetic
+U074,P017,3,Apr,family,synthetic
+U074,P009,4,Oct,family,synthetic
+U074,P005,4,Jun,family,synthetic
+U074,P018,4,Jul,family,synthetic
+U074,P019,4,Jul,family,synthetic
+U074,P012,4,Apr,family,synthetic
+U074,P020,3,Apr,family,synthetic
+U074,P006,4,May,family,synthetic
+U075,P001,4,Jul,group tour,synthetic
+U075,P009,5,Jul,group tour,synthetic
+U075,P008,4,May,group tour,synthetic
+U075,P003,3,Apr,group tour,synthetic
+U075,P010,4,Jul,group tour,synthetic
+U075,P012,5,Aug,group tour,synthetic
+U075,P013,3,Aug,group tour,synthetic
+U075,P015,5,Oct,group tour,synthetic
+U075,P011,5,Aug,group tour,synthetic
+U075,P027,3,Aug,group tour,synthetic
+U075,P017,4,Jul,group tour,synthetic
+U075,P021,3,Jun,group tour,synthetic
+U075,P016,4,Aug,group tour,synthetic
+U075,P026,4,Oct,group tour,synthetic
+U075,P004,4,Aug,group tour,synthetic
+U075,P002,5,Jul,group tour,synthetic
+U075,P024,4,Apr,group tour,synthetic
+U075,P005,4,Sep,group tour,synthetic
+U076,P026,3,Apr,solo,synthetic
+U076,P025,3,May,solo,synthetic
+U076,P020,4,Oct,solo,synthetic
+U076,P027,3,Aug,solo,synthetic
+U076,P016,5,May,solo,synthetic
+U076,P004,4,Aug,solo,synthetic
+U076,P011,4,Sep,solo,synthetic
+U076,P007,4,Apr,solo,synthetic
+U076,P005,4,Jun,solo,synthetic
+U076,P017,4,Sep,solo,synthetic
+U076,P019,3,Jul,solo,synthetic
+U076,P015,4,Jul,solo,synthetic
+U077,P004,4,May,group tour,synthetic
+U077,P006,3,Jul,group tour,synthetic
+U077,P001,4,Oct,group tour,synthetic
+U077,P020,4,Jul,group tour,synthetic
+U077,P014,4,Jul,group tour,synthetic
+U077,P027,5,Aug,group tour,synthetic
+U077,P017,3,Sep,group tour,synthetic
+U077,P010,4,Oct,group tour,synthetic
+U077,P018,4,Aug,group tour,synthetic
+U078,P004,5,Oct,solo,synthetic
+U078,P011,5,Aug,solo,synthetic
+U078,P005,5,Jul,solo,synthetic
+U078,P002,4,Aug,solo,synthetic
+U078,P024,4,May,solo,synthetic
+U078,P027,4,Oct,solo,synthetic
+U078,P022,4,Apr,solo,synthetic
+U078,P006,4,Jul,solo,synthetic
+U078,P007,5,Sep,solo,synthetic
+U078,P026,4,Aug,solo,synthetic
+U079,P025,4,Oct,friends,synthetic
+U079,P026,4,Apr,friends,synthetic
+U079,P027,3,May,friends,synthetic
+U079,P016,4,May,friends,synthetic
+U079,P021,3,Oct,friends,synthetic
+U079,P007,4,Oct,friends,synthetic
+U079,P015,5,Aug,friends,synthetic
+U079,P020,4,Jul,friends,synthetic
+U079,P010,4,Sep,friends,synthetic
+U079,P018,4,Apr,friends,synthetic
+U079,P019,4,Oct,friends,synthetic
+U079,P005,4,Oct,friends,synthetic
+U080,P014,5,May,group tour,synthetic
+U080,P021,3,Jun,group tour,synthetic
+U080,P006,3,Apr,group tour,synthetic
+U080,P011,5,Sep,group tour,synthetic
+U080,P013,4,Oct,group tour,synthetic
+U080,P025,4,Apr,group tour,synthetic
+U080,P027,3,Aug,group tour,synthetic
+U080,P003,4,May,group tour,synthetic
+U080,P023,3,Jun,group tour,synthetic
+U080,P012,5,May,group tour,synthetic
+U081,P004,5,Apr,friends,synthetic
+U081,P025,3,Oct,friends,synthetic
+U081,P003,5,Jul,friends,synthetic
+U081,P014,4,Jul,friends,synthetic
+U081,P005,4,Aug,friends,synthetic
+U081,P002,4,Sep,friends,synthetic
+U081,P001,4,May,friends,synthetic
+U081,P024,4,Sep,friends,synthetic
+U081,P007,4,Jun,friends,synthetic
+U081,P026,5,Oct,friends,synthetic
+U081,P017,4,Aug,friends,synthetic
+U082,P015,4,Jul,family,synthetic
+U082,P004,4,Aug,family,synthetic
+U082,P008,4,Apr,family,synthetic
+U082,P025,3,May,family,synthetic
+U082,P005,4,Sep,family,synthetic
+U082,P002,4,Jun,family,synthetic
+U082,P026,3,Sep,family,synthetic
+U082,P012,4,Jul,family,synthetic
+U082,P009,4,Aug,family,synthetic
+U082,P024,3,Jul,family,synthetic
+U082,P019,3,Oct,family,synthetic
+U082,P021,4,Jul,family,synthetic
+U082,P018,3,Jun,family,synthetic
+U083,P022,4,May,solo,synthetic
+U083,P025,3,Oct,solo,synthetic
+U083,P012,4,Jun,solo,synthetic
+U083,P009,4,Aug,solo,synthetic
+U083,P010,5,Sep,solo,synthetic
+U083,P021,4,Aug,solo,synthetic
+U083,P024,4,Sep,solo,synthetic
+U083,P006,3,May,solo,synthetic
+U083,P011,5,Jul,solo,synthetic
+U084,P002,4,Jul,friends,synthetic
+U084,P007,4,Oct,friends,synthetic
+U084,P016,4,Aug,friends,synthetic
+U084,P008,2,Jun,friends,synthetic
+U084,P019,4,Sep,friends,synthetic
+U084,P020,4,Jul,friends,synthetic
+U084,P003,4,Oct,friends,synthetic
+U084,P013,4,Aug,friends,synthetic
+U084,P010,5,Jun,friends,synthetic
+U084,P026,4,May,friends,synthetic
+U084,P023,3,Jun,friends,synthetic
+U084,P012,5,Apr,friends,synthetic
+U084,P024,3,May,friends,synthetic
+U084,P022,4,Aug,friends,synthetic
+U084,P005,5,Jun,friends,synthetic
+U084,P009,5,Oct,friends,synthetic
+U084,P027,4,Aug,friends,synthetic
+U084,P025,3,May,friends,synthetic
+U084,P017,5,Apr,friends,synthetic
+U084,P014,4,Oct,friends,synthetic
+U085,P011,5,Oct,friends,synthetic
+U085,P004,5,Jul,friends,synthetic
+U085,P024,4,Oct,friends,synthetic
+U085,P005,4,May,friends,synthetic
+U085,P009,4,Sep,friends,synthetic
+U085,P019,5,Sep,friends,synthetic
+U085,P022,3,Jul,friends,synthetic
+U085,P007,5,Jul,friends,synthetic
+U085,P018,4,Apr,friends,synthetic
+U085,P016,4,Jun,friends,synthetic
+U085,P026,4,Oct,friends,synthetic
+U085,P001,4,Oct,friends,synthetic
+U085,P021,4,Oct,friends,synthetic
+U086,P012,5,Jun,family,synthetic
+U086,P020,3,Apr,family,synthetic
+U086,P010,4,Jul,family,synthetic
+U086,P002,5,Sep,family,synthetic
+U086,P011,4,Jun,family,synthetic
+U086,P026,3,May,family,synthetic
+U086,P018,3,Jun,family,synthetic
+U086,P019,3,Apr,family,synthetic
+U086,P007,3,Jun,family,synthetic
+U086,P022,4,Jun,family,synthetic
+U086,P004,5,Apr,family,synthetic
+U086,P009,3,Aug,family,synthetic
+U086,P027,4,May,family,synthetic
+U086,P003,4,Jul,family,synthetic
+U086,P015,4,Sep,family,synthetic
+U086,P006,4,Sep,family,synthetic
+U086,P025,4,Jul,family,synthetic
+U086,P005,4,Aug,family,synthetic
+U087,P018,4,Sep,couple,synthetic
+U087,P019,3,Jun,couple,synthetic
+U087,P010,5,Sep,couple,synthetic
+U087,P001,4,May,couple,synthetic
+U087,P027,4,May,couple,synthetic
+U087,P021,4,Jul,couple,synthetic
+U087,P024,4,Aug,couple,synthetic
+U087,P026,4,Oct,couple,synthetic
+U087,P004,4,Oct,couple,synthetic
+U087,P006,3,Aug,couple,synthetic
+U087,P008,5,Sep,couple,synthetic
+U087,P014,5,Aug,couple,synthetic
+U087,P020,3,Apr,couple,synthetic
+U087,P017,5,Aug,couple,synthetic
+U087,P013,4,Apr,couple,synthetic
+U087,P002,4,Sep,couple,synthetic
+U087,P011,4,May,couple,synthetic
+U087,P025,3,Jun,couple,synthetic
+U087,P012,4,Jul,couple,synthetic
+U087,P023,3,Oct,couple,synthetic
+U088,P008,4,Aug,family,synthetic
+U088,P007,4,Aug,family,synthetic
+U088,P003,4,Oct,family,synthetic
+U088,P015,5,Sep,family,synthetic
+U088,P018,4,Jul,family,synthetic
+U088,P017,4,Jun,family,synthetic
+U088,P004,5,Apr,family,synthetic
+U088,P024,4,Apr,family,synthetic
+U088,P020,3,Sep,family,synthetic
+U089,P011,4,Sep,group tour,synthetic
+U089,P022,3,Jun,group tour,synthetic
+U089,P016,3,Apr,group tour,synthetic
+U089,P008,3,Jun,group tour,synthetic
+U089,P010,4,Aug,group tour,synthetic
+U089,P021,3,Sep,group tour,synthetic
+U089,P018,5,Apr,group tour,synthetic
+U089,P019,4,May,group tour,synthetic
+U089,P015,5,Apr,group tour,synthetic
+U089,P017,5,May,group tour,synthetic
+U089,P007,4,Sep,group tour,synthetic
+U089,P014,4,Jun,group tour,synthetic
+U089,P023,3,Jul,group tour,synthetic
+U089,P003,4,Jun,group tour,synthetic
+U089,P020,5,Jun,group tour,synthetic
+U089,P004,5,Jul,group tour,synthetic
+U089,P006,3,Oct,group tour,synthetic
+U089,P001,3,Jun,group tour,synthetic
+U090,P016,4,Sep,couple,synthetic
+U090,P012,5,Jul,couple,synthetic
+U090,P023,3,Apr,couple,synthetic
+U090,P022,4,May,couple,synthetic
+U090,P011,4,Jul,couple,synthetic
+U090,P025,4,Jun,couple,synthetic
+U090,P026,4,Oct,couple,synthetic
+U090,P015,5,Sep,couple,synthetic
+U090,P021,3,Jul,couple,synthetic
+U090,P004,5,Jun,couple,synthetic
+U090,P010,4,Oct,couple,synthetic
+U090,P017,5,Jul,couple,synthetic
+U090,P014,4,Sep,couple,synthetic
+U091,P006,2,May,group tour,synthetic
+U091,P003,5,Sep,group tour,synthetic
+U091,P005,5,Oct,group tour,synthetic
+U091,P001,3,Jun,group tour,synthetic
+U091,P019,5,Sep,group tour,synthetic
+U091,P013,5,Sep,group tour,synthetic
+U091,P025,3,Jun,group tour,synthetic
+U091,P007,3,Jun,group tour,synthetic
+U091,P009,5,Oct,group tour,synthetic
+U091,P016,4,Sep,group tour,synthetic
+U091,P017,5,Oct,group tour,synthetic
+U091,P010,5,Sep,group tour,synthetic
+U091,P002,4,Jul,group tour,synthetic
+U091,P014,4,Apr,group tour,synthetic
+U091,P027,3,Sep,group tour,synthetic
+U091,P022,3,May,group tour,synthetic
+U092,P004,5,May,solo,synthetic
+U092,P018,3,May,solo,synthetic
+U092,P006,5,Oct,solo,synthetic
+U092,P011,5,Apr,solo,synthetic
+U092,P024,3,Sep,solo,synthetic
+U092,P014,5,Jul,solo,synthetic
+U092,P001,5,Oct,solo,synthetic
+U092,P020,4,Jun,solo,synthetic
+U093,P023,3,Sep,solo,synthetic
+U093,P024,3,Aug,solo,synthetic
+U093,P013,4,Sep,solo,synthetic
+U093,P010,4,Oct,solo,synthetic
+U093,P022,5,May,solo,synthetic
+U093,P006,4,Aug,solo,synthetic
+U093,P025,4,Oct,solo,synthetic
+U093,P003,5,Sep,solo,synthetic
+U093,P012,5,Jul,solo,synthetic
+U093,P007,5,Oct,solo,synthetic
+U093,P015,4,Jul,solo,synthetic
+U093,P027,5,Aug,solo,synthetic
+U093,P002,5,Jun,solo,synthetic
+U093,P017,5,Apr,solo,synthetic
+U093,P011,5,Apr,solo,synthetic
+U093,P019,5,Oct,solo,synthetic
+U093,P026,3,Aug,solo,synthetic
+U093,P014,5,Jul,solo,synthetic
+U093,P005,5,Aug,solo,synthetic
+U093,P004,5,May,solo,synthetic
+U094,P019,4,May,family,synthetic
+U094,P005,5,Jun,family,synthetic
+U094,P020,3,Aug,family,synthetic
+U094,P022,4,Aug,family,synthetic
+U094,P017,4,Aug,family,synthetic
+U094,P016,4,Aug,family,synthetic
+U094,P015,5,Jun,family,synthetic
+U094,P018,4,Jul,family,synthetic
+U094,P008,3,Sep,family,synthetic
+U094,P006,3,Jun,family,synthetic
+U094,P009,5,Jul,family,synthetic
+U094,P007,3,Apr,family,synthetic
+U094,P003,4,Oct,family,synthetic
+U094,P004,4,Jul,family,synthetic
+U094,P026,4,Oct,family,synthetic
+U094,P010,3,Apr,family,synthetic
+U094,P002,4,Jul,family,synthetic
+U094,P014,4,Aug,family,synthetic
+U094,P013,3,Jun,family,synthetic
+U095,P003,4,Jul,family,synthetic
+U095,P018,4,Sep,family,synthetic
+U095,P009,5,Sep,family,synthetic
+U095,P012,4,May,family,synthetic
+U095,P001,4,Jul,family,synthetic
+U095,P007,5,Jun,family,synthetic
+U095,P002,4,Aug,family,synthetic
+U095,P024,3,May,family,synthetic
+U095,P006,4,Jul,family,synthetic
+U095,P015,4,Aug,family,synthetic
+U095,P017,5,Jun,family,synthetic
+U095,P027,4,Jun,family,synthetic
+U095,P021,3,May,family,synthetic
+U095,P022,4,May,family,synthetic
+U095,P008,5,Jul,family,synthetic
+U095,P016,4,Aug,family,synthetic
+U095,P004,5,Apr,family,synthetic
+U095,P026,5,Sep,family,synthetic
+U095,P010,5,Aug,family,synthetic
+U095,P020,5,Jun,family,synthetic
+U096,P009,4,Apr,friends,synthetic
+U096,P005,5,Jul,friends,synthetic
+U096,P014,5,Sep,friends,synthetic
+U096,P026,4,Oct,friends,synthetic
+U096,P008,4,Jul,friends,synthetic
+U096,P012,5,Jun,friends,synthetic
+U096,P004,5,Apr,friends,synthetic
+U096,P027,4,Jun,friends,synthetic
+U096,P019,4,Aug,friends,synthetic
+U096,P022,3,Sep,friends,synthetic
+U097,P019,3,Aug,couple,synthetic
+U097,P020,3,Jul,couple,synthetic
+U097,P018,5,Aug,couple,synthetic
+U097,P008,3,May,couple,synthetic
+U097,P005,5,May,couple,synthetic
+U097,P017,4,Aug,couple,synthetic
+U097,P013,4,Sep,couple,synthetic
+U097,P024,4,Aug,couple,synthetic
+U097,P001,5,Jun,couple,synthetic
+U097,P022,3,Jun,couple,synthetic
+U097,P015,5,Sep,couple,synthetic
+U097,P021,3,Jul,couple,synthetic
+U097,P025,4,May,couple,synthetic
+U097,P023,4,May,couple,synthetic
+U097,P027,4,Jul,couple,synthetic
+U098,P025,4,Sep,family,synthetic
+U098,P021,4,Apr,family,synthetic
+U098,P010,4,Oct,family,synthetic
+U098,P024,4,Oct,family,synthetic
+U098,P009,3,Aug,family,synthetic
+U098,P022,3,Jul,family,synthetic
+U098,P011,3,Sep,family,synthetic
+U098,P023,3,May,family,synthetic
+U098,P027,3,Apr,family,synthetic
+U098,P002,3,May,family,synthetic
+U098,P019,3,Aug,family,synthetic
+U098,P014,5,Jun,family,synthetic
+U098,P018,3,Jul,family,synthetic
+U098,P003,3,Oct,family,synthetic
+U098,P007,3,Jul,family,synthetic
+U099,P011,4,Aug,couple,synthetic
+U099,P018,4,Jul,couple,synthetic
+U099,P002,4,May,couple,synthetic
+U099,P007,4,Aug,couple,synthetic
+U099,P022,2,May,couple,synthetic
+U099,P005,4,Sep,couple,synthetic
+U099,P023,4,Sep,couple,synthetic
+U099,P003,4,Jun,couple,synthetic
+U099,P014,4,Jul,couple,synthetic
+U099,P010,5,Sep,couple,synthetic
+U099,P016,5,Jul,couple,synthetic
+U099,P009,5,May,couple,synthetic
+U099,P015,4,Aug,couple,synthetic
+U099,P004,5,Sep,couple,synthetic
+U099,P012,5,Aug,couple,synthetic
+U099,P024,3,Apr,couple,synthetic
+U099,P001,4,Sep,couple,synthetic
+U099,P013,5,Jul,couple,synthetic
+U099,P021,4,Apr,couple,synthetic
+U099,P020,4,Sep,couple,synthetic
+U100,P026,4,Sep,friends,synthetic
+U100,P004,5,May,friends,synthetic
+U100,P015,5,Jun,friends,synthetic
+U100,P013,3,May,friends,synthetic
+U100,P016,5,Aug,friends,synthetic
+U100,P005,5,Jul,friends,synthetic
+U100,P009,5,Apr,friends,synthetic
+U100,P017,4,Jul,friends,synthetic
+U100,P007,4,Sep,friends,synthetic
+U100,P022,4,Jul,friends,synthetic
+U100,P025,4,Apr,friends,synthetic
+U100,P027,4,Jun,friends,synthetic
+U100,P018,4,Jun,friends,synthetic
+U100,P002,4,Sep,friends,synthetic
+U100,P010,4,Sep,friends,synthetic
+U100,P024,4,Aug,friends,synthetic
+U100,P012,4,Sep,friends,synthetic
+U100,P020,4,May,friends,synthetic
+U101,P006,3,May,family,synthetic
+U101,P023,3,Jun,family,synthetic
+U101,P012,5,Oct,family,synthetic
+U101,P019,3,Jul,family,synthetic
+U101,P004,5,Apr,family,synthetic
+U101,P013,4,Aug,family,synthetic
+U101,P016,2,Sep,family,synthetic
+U101,P027,4,Aug,family,synthetic
+U102,P016,4,Sep,friends,synthetic
+U102,P015,4,Sep,friends,synthetic
+U102,P002,4,Jun,friends,synthetic
+U102,P017,4,Jul,friends,synthetic
+U102,P014,4,Sep,friends,synthetic
+U102,P023,4,Jul,friends,synthetic
+U102,P006,3,Jun,friends,synthetic
+U102,P009,5,Aug,friends,synthetic
+U102,P004,4,Sep,friends,synthetic
+U102,P021,4,Oct,friends,synthetic
+U103,P007,4,Sep,friends,synthetic
+U103,P018,4,Jul,friends,synthetic
+U103,P016,5,Sep,friends,synthetic
+U103,P023,3,Apr,friends,synthetic
+U103,P012,3,Sep,friends,synthetic
+U103,P003,3,Sep,friends,synthetic
+U103,P002,5,Aug,friends,synthetic
+U103,P020,4,Oct,friends,synthetic
+U103,P019,5,Sep,friends,synthetic
+U103,P009,4,Jul,friends,synthetic
+U103,P001,3,Aug,friends,synthetic
+U103,P026,4,Apr,friends,synthetic
+U104,P016,5,Jul,couple,synthetic
+U104,P027,4,Jul,couple,synthetic
+U104,P008,4,Oct,couple,synthetic
+U104,P009,4,May,couple,synthetic
+U104,P002,3,Aug,couple,synthetic
+U104,P012,4,Sep,couple,synthetic
+U104,P007,2,Jul,couple,synthetic
+U104,P024,3,Apr,couple,synthetic
+U105,P017,4,Apr,couple,synthetic
+U105,P019,4,Oct,couple,synthetic
+U105,P015,5,Oct,couple,synthetic
+U105,P024,3,May,couple,synthetic
+U105,P020,4,Sep,couple,synthetic
+U105,P002,4,Aug,couple,synthetic
+U105,P001,5,Jul,couple,synthetic
+U105,P005,5,Oct,couple,synthetic
+U105,P011,4,Apr,couple,synthetic
+U105,P025,4,Apr,couple,synthetic
+U105,P008,3,Sep,couple,synthetic
+U105,P018,4,Sep,couple,synthetic
+U105,P007,4,Jun,couple,synthetic
+U105,P006,4,Oct,couple,synthetic
+U105,P009,5,May,couple,synthetic
+U105,P010,5,Sep,couple,synthetic
+U105,P022,4,Aug,couple,synthetic
+U105,P004,4,Jun,couple,synthetic
+U105,P023,3,Sep,couple,synthetic
+U106,P001,4,Oct,solo,synthetic
+U106,P022,3,Sep,solo,synthetic
+U106,P021,4,Apr,solo,synthetic
+U106,P003,4,Apr,solo,synthetic
+U106,P015,4,Aug,solo,synthetic
+U106,P012,4,Jun,solo,synthetic
+U106,P004,4,Apr,solo,synthetic
+U106,P027,4,Oct,solo,synthetic
+U106,P005,3,Jun,solo,synthetic
+U106,P002,5,May,solo,synthetic
+U106,P016,4,Sep,solo,synthetic
+U106,P019,4,Oct,solo,synthetic
+U106,P017,3,May,solo,synthetic
+U106,P009,4,Jun,solo,synthetic
+U106,P026,4,May,solo,synthetic
+U106,P024,3,Aug,solo,synthetic
+U106,P025,3,Jul,solo,synthetic
+U106,P011,4,Aug,solo,synthetic
+U107,P002,4,Aug,couple,synthetic
+U107,P011,4,Oct,couple,synthetic
+U107,P024,2,Jun,couple,synthetic
+U107,P005,4,Aug,couple,synthetic
+U107,P009,4,Sep,couple,synthetic
+U107,P023,3,Apr,couple,synthetic
+U107,P008,4,Sep,couple,synthetic
+U107,P026,4,Aug,couple,synthetic
+U107,P003,4,Apr,couple,synthetic
+U107,P019,4,Apr,couple,synthetic
+U108,P011,4,Oct,friends,synthetic
+U108,P004,5,May,friends,synthetic
+U108,P016,4,Oct,friends,synthetic
+U108,P026,3,Jun,friends,synthetic
+U108,P017,5,Sep,friends,synthetic
+U108,P003,4,Jun,friends,synthetic
+U108,P009,5,Sep,friends,synthetic
+U108,P015,5,Jul,friends,synthetic
+U108,P022,4,Oct,friends,synthetic
+U108,P020,4,Aug,friends,synthetic
+U108,P010,5,Sep,friends,synthetic
+U108,P007,4,Aug,friends,synthetic
+U108,P002,5,Jul,friends,synthetic
+U108,P012,4,Jun,friends,synthetic
+U108,P005,4,Aug,friends,synthetic
+U108,P024,4,Sep,friends,synthetic
+U108,P001,4,Jul,friends,synthetic
+U108,P013,5,Sep,friends,synthetic
+U108,P008,4,Jul,friends,synthetic
+U109,P010,5,Apr,group tour,synthetic
+U109,P025,4,Apr,group tour,synthetic
+U109,P007,4,Oct,group tour,synthetic
+U109,P023,3,Oct,group tour,synthetic
+U109,P012,5,Oct,group tour,synthetic
+U109,P013,3,Apr,group tour,synthetic
+U109,P008,4,Oct,group tour,synthetic
+U109,P014,5,Jul,group tour,synthetic
+U109,P001,4,Sep,group tour,synthetic
+U109,P027,3,Aug,group tour,synthetic
+U109,P026,4,Jun,group tour,synthetic
+U109,P019,4,Jun,group tour,synthetic
+U109,P009,3,Jul,group tour,synthetic
+U109,P017,5,Sep,group tour,synthetic
+U109,P021,4,Jul,group tour,synthetic
+U109,P024,3,Jun,group tour,synthetic
+U109,P006,3,Jul,group tour,synthetic
+U109,P003,5,Apr,group tour,synthetic
+U110,P004,5,Oct,family,synthetic
+U110,P005,5,Jun,family,synthetic
+U110,P001,5,Oct,family,synthetic
+U110,P023,3,Oct,family,synthetic
+U110,P027,5,Aug,family,synthetic
+U110,P003,5,Jul,family,synthetic
+U110,P024,4,Aug,family,synthetic
+U110,P026,4,Jul,family,synthetic
+U110,P010,5,Sep,family,synthetic
+U110,P014,4,Apr,family,synthetic
+U110,P011,5,Oct,family,synthetic
+U110,P002,4,Jul,family,synthetic
+U111,P025,4,May,friends,synthetic
+U111,P010,5,Sep,friends,synthetic
+U111,P014,4,Oct,friends,synthetic
+U111,P001,5,Sep,friends,synthetic
+U111,P011,4,Aug,friends,synthetic
+U111,P022,2,Aug,friends,synthetic
+U111,P006,3,Apr,friends,synthetic
+U111,P003,5,Jul,friends,synthetic
+U111,P013,3,Apr,friends,synthetic
+U111,P009,4,Apr,friends,synthetic
+U111,P024,3,Jun,friends,synthetic
+U111,P004,5,Jul,friends,synthetic
+U112,P005,5,Jul,family,synthetic
+U112,P008,4,Oct,family,synthetic
+U112,P011,4,May,family,synthetic
+U112,P012,5,Jul,family,synthetic
+U112,P019,3,Aug,family,synthetic
+U112,P002,4,Oct,family,synthetic
+U112,P014,5,Jul,family,synthetic
+U112,P021,4,Oct,family,synthetic
+U113,P007,3,Jun,friends,synthetic
+U113,P018,4,Jun,friends,synthetic
+U113,P021,4,Apr,friends,synthetic
+U113,P011,5,Sep,friends,synthetic
+U113,P004,4,Jul,friends,synthetic
+U113,P019,3,Sep,friends,synthetic
+U113,P010,3,Oct,friends,synthetic
+U113,P017,5,Jul,friends,synthetic
+U113,P008,3,Jun,friends,synthetic
+U113,P003,4,May,friends,synthetic
+U113,P027,3,Sep,friends,synthetic
+U113,P026,3,Oct,friends,synthetic
+U113,P022,3,Sep,friends,synthetic
+U113,P016,4,Jun,friends,synthetic
+U113,P015,5,Jun,friends,synthetic
+U114,P022,4,Oct,friends,synthetic
+U114,P001,4,Sep,friends,synthetic
+U114,P024,4,Jun,friends,synthetic
+U114,P025,4,Oct,friends,synthetic
+U114,P027,4,Jun,friends,synthetic
+U114,P007,5,May,friends,synthetic
+U114,P005,5,May,friends,synthetic
+U114,P017,5,Aug,friends,synthetic
+U115,P016,4,Oct,couple,synthetic
+U115,P012,4,Aug,couple,synthetic
+U115,P009,4,May,couple,synthetic
+U115,P021,4,Oct,couple,synthetic
+U115,P007,4,Apr,couple,synthetic
+U115,P019,5,Jun,couple,synthetic
+U115,P017,5,May,couple,synthetic
+U115,P020,4,Sep,couple,synthetic
+U115,P002,4,Jun,couple,synthetic
+U115,P004,5,Aug,couple,synthetic
+U115,P025,5,Oct,couple,synthetic
+U115,P003,3,Aug,couple,synthetic
+U115,P023,3,Aug,couple,synthetic
+U116,P017,4,Jun,group tour,synthetic
+U116,P026,3,Apr,group tour,synthetic
+U116,P002,4,Jul,group tour,synthetic
+U116,P024,4,Jul,group tour,synthetic
+U116,P015,5,Jul,group tour,synthetic
+U116,P014,4,Oct,group tour,synthetic
+U116,P003,4,May,group tour,synthetic
+U116,P016,4,Apr,group tour,synthetic
+U116,P009,5,May,group tour,synthetic
+U116,P025,4,Oct,group tour,synthetic
+U116,P011,5,Sep,group tour,synthetic
+U116,P004,4,Jun,group tour,synthetic
+U116,P018,4,Sep,group tour,synthetic
+U116,P008,4,Oct,group tour,synthetic
+U116,P022,4,Oct,group tour,synthetic
+U116,P020,4,Apr,group tour,synthetic
+U116,P019,4,May,group tour,synthetic
+U116,P027,4,Jun,group tour,synthetic
+U117,P005,5,Apr,family,synthetic
+U117,P001,4,Jun,family,synthetic
+U117,P019,4,May,family,synthetic
+U117,P011,4,Apr,family,synthetic
+U117,P009,5,Aug,family,synthetic
+U117,P015,5,Apr,family,synthetic
+U117,P024,4,Aug,family,synthetic
+U117,P026,3,Jun,family,synthetic
+U117,P016,4,Oct,family,synthetic
+U117,P004,4,Apr,family,synthetic
+U117,P012,4,Jul,family,synthetic
+U117,P018,5,May,family,synthetic
+U117,P013,5,May,family,synthetic
+U117,P008,3,Jul,family,synthetic
+U118,P016,4,Sep,couple,synthetic
+U118,P003,4,May,couple,synthetic
+U118,P015,4,Jul,couple,synthetic
+U118,P018,3,Jul,couple,synthetic
+U118,P020,4,Aug,couple,synthetic
+U118,P023,4,Oct,couple,synthetic
+U118,P012,5,Sep,couple,synthetic
+U118,P019,4,Sep,couple,synthetic
+U118,P004,5,Aug,couple,synthetic
+U118,P001,4,Jun,couple,synthetic
+U118,P007,4,Apr,couple,synthetic
+U118,P011,5,Sep,couple,synthetic
+U118,P005,4,Aug,couple,synthetic
+U118,P027,4,Jul,couple,synthetic
+U118,P013,4,Jun,couple,synthetic
+U118,P014,5,Apr,couple,synthetic
+U118,P017,4,May,couple,synthetic
+U119,P013,3,Jun,solo,synthetic
+U119,P005,4,Oct,solo,synthetic
+U119,P018,4,Aug,solo,synthetic
+U119,P015,4,Oct,solo,synthetic
+U119,P009,4,Jul,solo,synthetic
+U119,P025,4,Oct,solo,synthetic
+U119,P001,4,Jun,solo,synthetic
+U119,P008,3,May,solo,synthetic
+U119,P002,4,Oct,solo,synthetic
+U119,P019,5,Jul,solo,synthetic
+U119,P017,4,Apr,solo,synthetic
+U119,P011,4,Jul,solo,synthetic
+U119,P022,3,Sep,solo,synthetic
+U120,P024,3,Apr,friends,synthetic
+U120,P011,4,Jun,friends,synthetic
+U120,P010,5,Jun,friends,synthetic
+U120,P017,5,Sep,friends,synthetic
+U120,P012,4,Apr,friends,synthetic
+U120,P002,4,Oct,friends,synthetic
+U120,P020,4,Aug,friends,synthetic
+U120,P026,4,Apr,friends,synthetic
+U120,P004,5,Aug,friends,synthetic
+U120,P013,3,Sep,friends,synthetic
+U120,P016,4,Jul,friends,synthetic
+U120,P009,4,May,friends,synthetic
+U120,P008,4,Aug,friends,synthetic
+U120,P005,5,Oct,friends,synthetic
+U120,P019,4,May,friends,synthetic
+U120,P001,4,Jun,friends,synthetic
+U120,P015,5,Jun,friends,synthetic
+U120,P021,4,Aug,friends,synthetic
+U121,P021,3,Jun,solo,synthetic
+U121,P020,4,May,solo,synthetic
+U121,P008,4,Jul,solo,synthetic
+U121,P024,4,Aug,solo,synthetic
+U121,P003,4,Jun,solo,synthetic
+U121,P022,3,Aug,solo,synthetic
+U121,P026,4,Apr,solo,synthetic
+U121,P004,4,Jul,solo,synthetic
+U121,P018,3,Jul,solo,synthetic
+U121,P001,4,Jul,solo,synthetic
+U121,P010,5,Sep,solo,synthetic
+U121,P014,4,Oct,solo,synthetic
+U121,P015,4,Sep,solo,synthetic
+U122,P023,3,Jul,couple,synthetic
+U122,P012,5,Oct,couple,synthetic
+U122,P007,4,Jul,couple,synthetic
+U122,P014,4,Oct,couple,synthetic
+U122,P003,4,Jun,couple,synthetic
+U122,P020,5,May,couple,synthetic
+U122,P017,5,Oct,couple,synthetic
+U122,P010,4,May,couple,synthetic
+U123,P015,3,Jul,couple,synthetic
+U123,P017,5,Jun,couple,synthetic
+U123,P007,5,Aug,couple,synthetic
+U123,P018,4,Oct,couple,synthetic
+U123,P016,4,Sep,couple,synthetic
+U123,P006,3,Oct,couple,synthetic
+U123,P003,5,Apr,couple,synthetic
+U123,P021,5,Jul,couple,synthetic
+U123,P019,4,Oct,couple,synthetic
+U123,P013,5,May,couple,synthetic
+U123,P005,4,Oct,couple,synthetic
+U123,P008,3,Jul,couple,synthetic
+U123,P011,4,Jul,couple,synthetic
+U123,P002,4,Sep,couple,synthetic
+U123,P014,4,Jun,couple,synthetic
+U124,P006,4,Jun,family,synthetic
+U124,P005,5,Aug,family,synthetic
+U124,P014,5,Jun,family,synthetic
+U124,P008,4,Aug,family,synthetic
+U124,P011,3,Oct,family,synthetic
+U124,P027,4,Sep,family,synthetic
+U124,P020,3,Jul,family,synthetic
+U124,P026,3,Aug,family,synthetic
+U124,P016,3,Oct,family,synthetic
+U124,P002,5,Sep,family,synthetic
+U124,P001,5,Aug,family,synthetic
+U125,P010,5,Sep,solo,synthetic
+U125,P012,4,Apr,solo,synthetic
+U125,P008,4,Oct,solo,synthetic
+U125,P004,4,Apr,solo,synthetic
+U125,P006,5,Jun,solo,synthetic
+U125,P023,2,Apr,solo,synthetic
+U125,P019,4,Jun,solo,synthetic
+U125,P015,4,Oct,solo,synthetic
+U125,P013,4,Apr,solo,synthetic
+U125,P026,4,Sep,solo,synthetic
+U125,P003,5,Apr,solo,synthetic
+U125,P009,3,Apr,solo,synthetic
+U125,P011,5,May,solo,synthetic
+U125,P022,2,Sep,solo,synthetic
+U125,P027,3,Aug,solo,synthetic
+U125,P025,5,Sep,solo,synthetic
+U125,P024,4,Oct,solo,synthetic
+U125,P007,3,Jul,solo,synthetic
+U125,P014,4,May,solo,synthetic
+U125,P021,5,Sep,solo,synthetic
+U126,P012,4,May,group tour,synthetic
+U126,P009,5,Apr,group tour,synthetic
+U126,P016,5,Sep,group tour,synthetic
+U126,P004,4,Sep,group tour,synthetic
+U126,P015,5,Jun,group tour,synthetic
+U126,P005,5,Sep,group tour,synthetic
+U126,P020,4,Sep,group tour,synthetic
+U126,P001,5,Jun,group tour,synthetic
+U126,P013,3,Jun,group tour,synthetic
+U127,P007,4,Apr,solo,synthetic
+U127,P011,5,Sep,solo,synthetic
+U127,P016,4,Aug,solo,synthetic
+U127,P014,4,May,solo,synthetic
+U127,P001,5,Oct,solo,synthetic
+U127,P019,4,Jun,solo,synthetic
+U127,P026,4,Oct,solo,synthetic
+U127,P004,5,Sep,solo,synthetic
+U127,P015,5,Aug,solo,synthetic
+U127,P003,4,May,solo,synthetic
+U127,P018,4,Sep,solo,synthetic
+U127,P017,4,Aug,solo,synthetic
+U127,P012,4,Apr,solo,synthetic
+U128,P007,3,Aug,group tour,synthetic
+U128,P005,4,Jun,group tour,synthetic
+U128,P008,3,Sep,group tour,synthetic
+U128,P015,4,Aug,group tour,synthetic
+U128,P016,5,Aug,group tour,synthetic
+U128,P011,5,Sep,group tour,synthetic
+U128,P002,4,May,group tour,synthetic
+U128,P004,5,Sep,group tour,synthetic
+U129,P014,5,Oct,solo,synthetic
+U129,P017,5,Apr,solo,synthetic
+U129,P026,4,Jul,solo,synthetic
+U129,P027,3,Oct,solo,synthetic
+U129,P020,4,May,solo,synthetic
+U129,P007,4,Aug,solo,synthetic
+U129,P025,4,Jul,solo,synthetic
+U129,P002,4,Apr,solo,synthetic
+U129,P005,5,May,solo,synthetic
+U129,P006,4,Oct,solo,synthetic
+U129,P003,4,Jun,solo,synthetic
+U129,P024,4,Sep,solo,synthetic
+U129,P011,5,May,solo,synthetic
+U129,P015,4,May,solo,synthetic
+U129,P008,4,Aug,solo,synthetic
+U130,P007,5,Oct,family,synthetic
+U130,P014,4,May,family,synthetic
+U130,P010,4,Sep,family,synthetic
+U130,P012,5,May,family,synthetic
+U130,P018,3,May,family,synthetic
+U130,P022,4,Aug,family,synthetic
+U130,P008,3,May,family,synthetic
+U130,P009,5,Jul,family,synthetic
+U130,P025,3,Aug,family,synthetic
+U130,P011,4,Jun,family,synthetic
+U130,P023,4,Apr,family,synthetic
+U130,P026,3,Jun,family,synthetic
+U130,P024,4,Apr,family,synthetic
+U131,P019,4,Oct,family,synthetic
+U131,P026,3,Oct,family,synthetic
+U131,P008,4,Aug,family,synthetic
+U131,P012,5,Jul,family,synthetic
+U131,P017,3,Aug,family,synthetic
+U131,P013,4,Aug,family,synthetic
+U131,P003,4,Apr,family,synthetic
+U131,P007,4,Aug,family,synthetic
+U131,P024,3,Aug,family,synthetic
+U131,P025,4,May,family,synthetic
+U131,P027,4,Oct,family,synthetic
+U131,P018,4,Oct,family,synthetic
+U131,P021,3,Apr,family,synthetic
+U131,P005,5,Sep,family,synthetic
+U131,P015,4,Jun,family,synthetic
+U131,P002,4,Oct,family,synthetic
+U131,P014,4,Apr,family,synthetic
+U131,P011,4,Jul,family,synthetic
+U132,P024,4,Jun,group tour,synthetic
+U132,P021,4,Sep,group tour,synthetic
+U132,P012,4,Aug,group tour,synthetic
+U132,P025,3,Sep,group tour,synthetic
+U132,P022,3,Jun,group tour,synthetic
+U132,P006,4,Oct,group tour,synthetic
+U132,P013,4,Jun,group tour,synthetic
+U132,P002,4,Apr,group tour,synthetic
+U132,P027,4,May,group tour,synthetic
+U133,P009,5,May,group tour,synthetic
+U133,P015,5,Jul,group tour,synthetic
+U133,P011,4,Aug,group tour,synthetic
+U133,P024,3,Oct,group tour,synthetic
+U133,P004,5,Oct,group tour,synthetic
+U133,P027,4,Sep,group tour,synthetic
+U133,P007,5,Aug,group tour,synthetic
+U133,P002,5,Sep,group tour,synthetic
+U133,P017,5,Aug,group tour,synthetic
+U133,P016,4,Apr,group tour,synthetic
+U133,P020,5,Jun,group tour,synthetic
+U133,P005,5,Jun,group tour,synthetic
+U133,P014,4,Aug,group tour,synthetic
+U133,P018,3,Jul,group tour,synthetic
+U133,P008,3,Jun,group tour,synthetic
+U133,P021,4,Jul,group tour,synthetic
+U133,P012,4,Jun,group tour,synthetic
+U133,P019,4,Oct,group tour,synthetic
+U133,P026,3,Apr,group tour,synthetic
+U133,P006,3,May,group tour,synthetic
+U134,P013,4,Apr,family,synthetic
+U134,P018,4,Oct,family,synthetic
+U134,P015,4,Aug,family,synthetic
+U134,P021,3,Sep,family,synthetic
+U134,P001,4,Apr,family,synthetic
+U134,P019,4,May,family,synthetic
+U134,P014,4,Jun,family,synthetic
+U134,P027,3,Jun,family,synthetic
+U135,P001,5,May,solo,synthetic
+U135,P010,3,Sep,solo,synthetic
+U135,P007,4,May,solo,synthetic
+U135,P022,2,Aug,solo,synthetic
+U135,P009,3,Sep,solo,synthetic
+U135,P008,3,Oct,solo,synthetic
+U135,P011,4,Oct,solo,synthetic
+U135,P003,4,Apr,solo,synthetic
+U135,P005,4,May,solo,synthetic
+U136,P010,5,Oct,group tour,synthetic
+U136,P011,4,May,group tour,synthetic
+U136,P006,4,Aug,group tour,synthetic
+U136,P020,4,Aug,group tour,synthetic
+U136,P005,4,Jun,group tour,synthetic
+U136,P018,4,Sep,group tour,synthetic
+U136,P004,5,Jun,group tour,synthetic
+U136,P024,4,Apr,group tour,synthetic
+U136,P007,3,Apr,group tour,synthetic
+U136,P021,3,Apr,group tour,synthetic
+U136,P016,4,May,group tour,synthetic
+U137,P014,3,Sep,couple,synthetic
+U137,P004,4,Jul,couple,synthetic
+U137,P018,3,Jun,couple,synthetic
+U137,P005,4,Apr,couple,synthetic
+U137,P008,4,Oct,couple,synthetic
+U137,P013,4,Sep,couple,synthetic
+U137,P022,4,Jul,couple,synthetic
+U137,P020,4,Sep,couple,synthetic
+U137,P017,5,Sep,couple,synthetic
+U137,P015,4,Apr,couple,synthetic
+U138,P003,4,Apr,couple,synthetic
+U138,P027,4,Jul,couple,synthetic
+U138,P011,4,Jun,couple,synthetic
+U138,P022,5,Jul,couple,synthetic
+U138,P010,5,Jun,couple,synthetic
+U138,P017,4,Oct,couple,synthetic
+U138,P006,5,Sep,couple,synthetic
+U138,P004,5,Jun,couple,synthetic
+U138,P026,4,Aug,couple,synthetic
+U138,P025,5,Jul,couple,synthetic
+U138,P024,4,Jul,couple,synthetic
+U138,P002,4,May,couple,synthetic
+U138,P009,5,Sep,couple,synthetic
+U138,P005,4,Sep,couple,synthetic
+U138,P014,5,Oct,couple,synthetic
+U138,P019,4,Jun,couple,synthetic
+U138,P012,4,Oct,couple,synthetic
+U138,P007,4,Oct,couple,synthetic
+U139,P002,3,Sep,couple,synthetic
+U139,P004,4,Aug,couple,synthetic
+U139,P008,3,May,couple,synthetic
+U139,P023,3,Jul,couple,synthetic
+U139,P001,5,Oct,couple,synthetic
+U139,P013,4,Oct,couple,synthetic
+U139,P003,4,Aug,couple,synthetic
+U139,P025,2,Apr,couple,synthetic
+U139,P005,4,Sep,couple,synthetic
+U139,P019,4,Jul,couple,synthetic
+U139,P016,4,Oct,couple,synthetic
+U139,P021,2,Aug,couple,synthetic
+U139,P010,4,Aug,couple,synthetic
+U139,P024,3,Jun,couple,synthetic
+U140,P014,5,Aug,family,synthetic
+U140,P011,4,Jun,family,synthetic
+U140,P024,4,Apr,family,synthetic
+U140,P016,4,Sep,family,synthetic
+U140,P021,3,Aug,family,synthetic
+U140,P022,4,Jun,family,synthetic
+U140,P013,4,Apr,family,synthetic
+U140,P023,4,Jun,family,synthetic
+U140,P025,3,Jul,family,synthetic
+U140,P012,5,Apr,family,synthetic
+U140,P018,4,Oct,family,synthetic
+U140,P019,3,Jun,family,synthetic
+U141,P011,4,Aug,couple,synthetic
+U141,P022,4,May,couple,synthetic
+U141,P014,4,Sep,couple,synthetic
+U141,P010,3,Aug,couple,synthetic
+U141,P027,4,Aug,couple,synthetic
+U141,P013,5,Sep,couple,synthetic
+U141,P025,3,Sep,couple,synthetic
+U141,P016,4,Jun,couple,synthetic
+U141,P006,3,Aug,couple,synthetic
+U141,P009,4,Jun,couple,synthetic
+U141,P001,4,Jul,couple,synthetic
+U141,P003,3,Jun,couple,synthetic
+U141,P021,4,Jul,couple,synthetic
+U141,P023,3,Oct,couple,synthetic
+U141,P019,4,May,couple,synthetic
+U141,P007,4,Aug,couple,synthetic
+U141,P026,4,Apr,couple,synthetic
+U141,P018,3,Jul,couple,synthetic
+U141,P012,5,May,couple,synthetic
+U141,P002,4,Sep,couple,synthetic
+U142,P022,2,Apr,family,synthetic
+U142,P017,5,Jun,family,synthetic
+U142,P011,4,May,family,synthetic
+U142,P026,4,Jul,family,synthetic
+U142,P018,5,Aug,family,synthetic
+U142,P025,5,Oct,family,synthetic
+U142,P014,4,Sep,family,synthetic
+U142,P007,4,Sep,family,synthetic
+U142,P002,3,May,family,synthetic
+U142,P019,4,Apr,family,synthetic
+U142,P003,4,May,family,synthetic
+U142,P008,5,Jun,family,synthetic
+U142,P015,4,Apr,family,synthetic
+U142,P004,4,Apr,family,synthetic
+U142,P010,4,Sep,family,synthetic
+U142,P016,3,Oct,family,synthetic
+U142,P021,4,Oct,family,synthetic
+U142,P024,2,Sep,family,synthetic
+U142,P012,5,Jun,family,synthetic
+U143,P021,5,Jun,friends,synthetic
+U143,P001,5,Apr,friends,synthetic
+U143,P013,4,Jul,friends,synthetic
+U143,P009,4,Jul,friends,synthetic
+U143,P026,5,May,friends,synthetic
+U143,P014,5,Jun,friends,synthetic
+U143,P003,4,Jun,friends,synthetic
+U143,P027,3,Oct,friends,synthetic
+U143,P016,4,May,friends,synthetic
+U143,P007,4,Oct,friends,synthetic
+U143,P011,5,Apr,friends,synthetic
+U143,P004,5,Aug,friends,synthetic
+U143,P024,4,Jun,friends,synthetic
+U143,P006,3,Oct,friends,synthetic
+U143,P008,4,Sep,friends,synthetic
+U144,P004,4,Jun,group tour,synthetic
+U144,P021,4,Aug,group tour,synthetic
+U144,P027,3,Jun,group tour,synthetic
+U144,P024,4,Sep,group tour,synthetic
+U144,P018,4,Jul,group tour,synthetic
+U144,P020,4,Apr,group tour,synthetic
+U144,P010,5,Jul,group tour,synthetic
+U144,P014,4,Aug,group tour,synthetic
+U144,P015,4,Aug,group tour,synthetic
+U144,P011,4,Sep,group tour,synthetic
+U144,P025,4,Oct,group tour,synthetic
+U144,P003,4,Jul,group tour,synthetic
+U144,P013,4,Jul,group tour,synthetic
+U144,P006,4,Jul,group tour,synthetic
+U144,P009,4,Jul,group tour,synthetic
+U144,P022,3,Sep,group tour,synthetic
+U144,P002,4,Aug,group tour,synthetic
+U144,P001,4,Aug,group tour,synthetic
+U144,P026,4,May,group tour,synthetic
+U145,P008,4,Oct,friends,synthetic
+U145,P004,4,Aug,friends,synthetic
+U145,P021,4,Apr,friends,synthetic
+U145,P012,4,Apr,friends,synthetic
+U145,P006,3,Jul,friends,synthetic
+U145,P015,3,Jun,friends,synthetic
+U145,P001,5,Jul,friends,synthetic
+U145,P009,4,Jul,friends,synthetic
+U145,P003,4,Aug,friends,synthetic
+U145,P027,4,May,friends,synthetic
+U145,P005,4,Sep,friends,synthetic
+U145,P011,3,Apr,friends,synthetic
+U145,P014,4,Jun,friends,synthetic
+U145,P023,3,Oct,friends,synthetic
+U145,P024,4,Jun,friends,synthetic
+U145,P007,3,May,friends,synthetic
+U145,P019,4,Jul,friends,synthetic
+U145,P025,3,Sep,friends,synthetic
+U145,P016,3,Sep,friends,synthetic
+U145,P010,4,Sep,friends,synthetic
+U146,P019,5,Aug,couple,synthetic
+U146,P010,4,Jul,couple,synthetic
+U146,P016,4,Jun,couple,synthetic
+U146,P012,3,Jun,couple,synthetic
+U146,P006,4,Jul,couple,synthetic
+U146,P002,5,Jun,couple,synthetic
+U146,P008,4,Aug,couple,synthetic
+U146,P013,4,Sep,couple,synthetic
+U146,P004,5,Apr,couple,synthetic
+U146,P009,5,Jun,couple,synthetic
+U146,P024,2,Aug,couple,synthetic
+U146,P017,5,Sep,couple,synthetic
+U146,P011,4,Oct,couple,synthetic
+U146,P021,3,Oct,couple,synthetic
+U146,P015,3,Jul,couple,synthetic
+U146,P018,5,Jul,couple,synthetic
+U146,P001,4,Apr,couple,synthetic
+U146,P020,4,Apr,couple,synthetic
+U146,P003,4,Aug,couple,synthetic
+U147,P002,5,Oct,couple,synthetic
+U147,P027,3,Oct,couple,synthetic
+U147,P014,5,Aug,couple,synthetic
+U147,P008,4,Aug,couple,synthetic
+U147,P013,3,Jun,couple,synthetic
+U147,P022,3,Oct,couple,synthetic
+U147,P005,5,Apr,couple,synthetic
+U147,P004,5,Jul,couple,synthetic
+U147,P020,5,Jun,couple,synthetic
+U147,P006,3,Jun,couple,synthetic
+U147,P009,5,Oct,couple,synthetic
+U147,P026,4,Sep,couple,synthetic
+U147,P007,4,Aug,couple,synthetic
+U147,P024,3,Jun,couple,synthetic
+U147,P015,5,Sep,couple,synthetic
+U147,P018,4,Oct,couple,synthetic
+U147,P025,4,May,couple,synthetic
+U147,P001,4,Sep,couple,synthetic
+U147,P003,4,May,couple,synthetic
+U148,P015,4,Apr,family,synthetic
+U148,P009,2,Oct,family,synthetic
+U148,P026,3,May,family,synthetic
+U148,P005,3,Apr,family,synthetic
+U148,P017,4,May,family,synthetic
+U148,P013,3,Aug,family,synthetic
+U148,P027,4,Jun,family,synthetic
+U148,P002,3,Apr,family,synthetic
+U148,P018,4,Oct,family,synthetic
+U149,P001,5,May,group tour,synthetic
+U149,P008,4,Oct,group tour,synthetic
+U149,P013,5,Jun,group tour,synthetic
+U149,P019,3,May,group tour,synthetic
+U149,P021,4,Jun,group tour,synthetic
+U149,P027,5,Sep,group tour,synthetic
+U149,P009,5,Aug,group tour,synthetic
+U149,P015,5,Jul,group tour,synthetic
+U149,P011,4,May,group tour,synthetic
+U149,P005,4,Sep,group tour,synthetic
+U149,P026,4,Oct,group tour,synthetic
+U150,P021,5,Sep,couple,synthetic
+U150,P006,4,Aug,couple,synthetic
+U150,P012,4,Oct,couple,synthetic
+U150,P011,4,Aug,couple,synthetic
+U150,P013,3,May,couple,synthetic
+U150,P014,4,May,couple,synthetic
+U150,P016,4,Sep,couple,synthetic
+U150,P022,4,Sep,couple,synthetic
+U150,P008,3,Aug,couple,synthetic
+U150,P009,3,May,couple,synthetic
+U150,P001,3,May,couple,synthetic
+U150,P018,4,Sep,couple,synthetic
+U150,P015,5,Oct,couple,synthetic
+U150,P027,4,Jul,couple,synthetic
+U150,P019,5,Sep,couple,synthetic
+U150,P025,3,Jul,couple,synthetic
+U150,P004,4,May,couple,synthetic
+U150,P024,3,Sep,couple,synthetic
+U151,P010,4,Oct,family,synthetic
+U151,P014,4,Aug,family,synthetic
+U151,P006,4,Apr,family,synthetic
+U151,P027,5,Jun,family,synthetic
+U151,P012,5,May,family,synthetic
+U151,P013,4,May,family,synthetic
+U151,P016,3,Sep,family,synthetic
+U151,P008,3,Jun,family,synthetic
+U151,P019,5,Jun,family,synthetic
+U151,P021,3,Jun,family,synthetic
+U151,P017,4,Sep,family,synthetic
+U151,P003,3,Sep,family,synthetic
+U151,P005,5,Jul,family,synthetic
+U151,P024,4,Apr,family,synthetic
+U151,P001,4,Jul,family,synthetic
+U151,P015,4,Jul,family,synthetic
+U151,P004,5,Apr,family,synthetic
+U151,P026,4,Aug,family,synthetic
+U151,P002,4,May,family,synthetic
+U152,P009,4,Aug,friends,synthetic
+U152,P018,4,Aug,friends,synthetic
+U152,P008,5,Sep,friends,synthetic
+U152,P002,4,Jun,friends,synthetic
+U152,P019,5,Oct,friends,synthetic
+U152,P001,4,Jun,friends,synthetic
+U152,P010,3,Jul,friends,synthetic
+U152,P020,4,Oct,friends,synthetic
+U152,P021,3,Apr,friends,synthetic
+U152,P007,4,Apr,friends,synthetic
+U152,P015,5,May,friends,synthetic
+U152,P023,3,Oct,friends,synthetic
+U152,P022,4,Apr,friends,synthetic
+U153,P002,4,Apr,group tour,synthetic
+U153,P005,5,May,group tour,synthetic
+U153,P015,3,May,group tour,synthetic
+U153,P009,4,Aug,group tour,synthetic
+U153,P007,3,Aug,group tour,synthetic
+U153,P014,4,Aug,group tour,synthetic
+U153,P004,5,Sep,group tour,synthetic
+U153,P024,4,Aug,group tour,synthetic
+U153,P021,2,May,group tour,synthetic
+U153,P018,5,Oct,group tour,synthetic
+U153,P003,4,May,group tour,synthetic
+U153,P019,4,Oct,group tour,synthetic
+U153,P020,4,Jun,group tour,synthetic
+U153,P017,5,May,group tour,synthetic
+U153,P025,3,Aug,group tour,synthetic
+U153,P016,4,Apr,group tour,synthetic
+U153,P012,4,Aug,group tour,synthetic
+U153,P001,4,Oct,group tour,synthetic
+U154,P006,3,Jul,family,synthetic
+U154,P009,4,Sep,family,synthetic
+U154,P026,5,Apr,family,synthetic
+U154,P015,4,May,family,synthetic
+U154,P024,4,Sep,family,synthetic
+U154,P019,5,May,family,synthetic
+U154,P003,4,Jun,family,synthetic
+U154,P020,3,Jun,family,synthetic
+U154,P007,5,Apr,family,synthetic
+U154,P016,3,Oct,family,synthetic
+U154,P008,3,Sep,family,synthetic
+U154,P027,5,Aug,family,synthetic
+U154,P001,4,Jul,family,synthetic
+U154,P025,4,May,family,synthetic
+U154,P002,4,May,family,synthetic
+U154,P022,4,Oct,family,synthetic
+U154,P014,3,Jul,family,synthetic
+U154,P004,5,Sep,family,synthetic
+U154,P023,4,Sep,family,synthetic
+U154,P021,4,Oct,family,synthetic
+U155,P019,4,Jun,family,synthetic
+U155,P007,5,Apr,family,synthetic
+U155,P008,3,Jul,family,synthetic
+U155,P004,5,May,family,synthetic
+U155,P017,5,Jun,family,synthetic
+U155,P002,4,Sep,family,synthetic
+U155,P016,3,Jun,family,synthetic
+U155,P024,3,Apr,family,synthetic
+U156,P024,4,Apr,solo,synthetic
+U156,P025,5,Aug,solo,synthetic
+U156,P007,5,May,solo,synthetic
+U156,P015,4,Jul,solo,synthetic
+U156,P006,3,Jun,solo,synthetic
+U156,P003,4,Sep,solo,synthetic
+U156,P026,3,Jun,solo,synthetic
+U156,P023,3,Sep,solo,synthetic
+U156,P002,4,Apr,solo,synthetic
+U156,P012,4,Apr,solo,synthetic
+U156,P010,4,Aug,solo,synthetic
+U156,P016,4,Oct,solo,synthetic
+U156,P005,5,Sep,solo,synthetic
+U156,P001,5,Jul,solo,synthetic
+U156,P014,5,Aug,solo,synthetic
+U156,P022,4,Apr,solo,synthetic
+U156,P021,4,Oct,solo,synthetic
+U156,P011,5,Jun,solo,synthetic
+U156,P018,4,Apr,solo,synthetic
+U157,P011,3,Oct,solo,synthetic
+U157,P027,4,May,solo,synthetic
+U157,P003,3,Sep,solo,synthetic
+U157,P018,4,Oct,solo,synthetic
+U157,P007,3,Jul,solo,synthetic
+U157,P020,4,May,solo,synthetic
+U157,P009,4,May,solo,synthetic
+U157,P016,4,Aug,solo,synthetic
+U157,P025,4,Jun,solo,synthetic
+U157,P021,3,Apr,solo,synthetic
+U157,P019,4,May,solo,synthetic
+U157,P015,4,Jul,solo,synthetic
+U157,P010,4,Sep,solo,synthetic
+U157,P013,5,Apr,solo,synthetic
+U157,P026,3,Sep,solo,synthetic
+U157,P008,3,Sep,solo,synthetic
+U157,P014,4,Aug,solo,synthetic
+U157,P006,4,Apr,solo,synthetic
+U157,P024,3,Jul,solo,synthetic
+U158,P015,5,Oct,couple,synthetic
+U158,P018,3,Jul,couple,synthetic
+U158,P016,5,Apr,couple,synthetic
+U158,P006,3,Aug,couple,synthetic
+U158,P002,5,Aug,couple,synthetic
+U158,P011,4,Jun,couple,synthetic
+U158,P025,3,Jul,couple,synthetic
+U158,P014,5,Sep,couple,synthetic
+U159,P016,4,Aug,family,synthetic
+U159,P011,3,Jun,family,synthetic
+U159,P008,4,Oct,family,synthetic
+U159,P021,3,Sep,family,synthetic
+U159,P025,3,Oct,family,synthetic
+U159,P004,3,Aug,family,synthetic
+U159,P023,4,May,family,synthetic
+U159,P020,2,Apr,family,synthetic
+U159,P007,3,Sep,family,synthetic
+U159,P001,4,Jul,family,synthetic
+U159,P024,3,Apr,family,synthetic
+U159,P014,4,Jun,family,synthetic
+U159,P015,4,Oct,family,synthetic
+U159,P009,4,May,family,synthetic
+U160,P026,4,Jul,solo,synthetic
+U160,P013,5,Jun,solo,synthetic
+U160,P023,3,Aug,solo,synthetic
+U160,P004,4,Oct,solo,synthetic
+U160,P027,4,Apr,solo,synthetic
+U160,P005,5,Oct,solo,synthetic
+U160,P008,3,Jun,solo,synthetic
+U160,P003,4,Oct,solo,synthetic
+U160,P010,4,Aug,solo,synthetic
+U161,P002,4,Jul,couple,synthetic
+U161,P004,5,May,couple,synthetic
+U161,P016,5,May,couple,synthetic
+U161,P025,4,May,couple,synthetic
+U161,P015,5,Jul,couple,synthetic
+U161,P020,5,Aug,couple,synthetic
+U161,P013,4,Jul,couple,synthetic
+U161,P018,5,Apr,couple,synthetic
+U161,P019,5,Jul,couple,synthetic
+U161,P005,5,May,couple,synthetic
+U161,P009,4,Jun,couple,synthetic
+U161,P017,5,May,couple,synthetic
+U161,P008,5,Jun,couple,synthetic
+U162,P003,4,Aug,friends,synthetic
+U162,P002,4,Sep,friends,synthetic
+U162,P001,5,Sep,friends,synthetic
+U162,P025,2,Sep,friends,synthetic
+U162,P005,4,Aug,friends,synthetic
+U162,P021,3,May,friends,synthetic
+U162,P007,4,May,friends,synthetic
+U162,P012,5,May,friends,synthetic
+U162,P004,4,Jul,friends,synthetic
+U162,P027,4,Sep,friends,synthetic
+U162,P009,4,May,friends,synthetic
+U162,P023,4,Sep,friends,synthetic
+U162,P010,4,Sep,friends,synthetic
+U162,P006,3,Apr,friends,synthetic
+U163,P017,4,Apr,solo,synthetic
+U163,P022,4,Aug,solo,synthetic
+U163,P011,4,May,solo,synthetic
+U163,P007,5,Jul,solo,synthetic
+U163,P024,3,Aug,solo,synthetic
+U163,P018,4,Aug,solo,synthetic
+U163,P014,3,Apr,solo,synthetic
+U163,P005,4,May,solo,synthetic
+U163,P009,4,Oct,solo,synthetic
+U163,P027,4,Sep,solo,synthetic
+U163,P013,4,Jun,solo,synthetic
+U163,P015,5,Sep,solo,synthetic
+U163,P025,4,Sep,solo,synthetic
+U164,P003,5,Oct,group tour,synthetic
+U164,P009,5,Aug,group tour,synthetic
+U164,P002,3,Jun,group tour,synthetic
+U164,P016,3,Jun,group tour,synthetic
+U164,P011,5,Jul,group tour,synthetic
+U164,P020,3,Jul,group tour,synthetic
+U164,P005,5,Jul,group tour,synthetic
+U164,P004,4,Aug,group tour,synthetic
+U164,P025,4,Jun,group tour,synthetic
+U164,P021,4,May,group tour,synthetic
+U165,P018,5,Aug,family,synthetic
+U165,P017,4,Jul,family,synthetic
+U165,P024,4,Aug,family,synthetic
+U165,P003,4,Jul,family,synthetic
+U165,P010,4,Aug,family,synthetic
+U165,P008,3,Apr,family,synthetic
+U165,P027,3,May,family,synthetic
+U165,P012,5,Jul,family,synthetic
+U165,P020,4,Jul,family,synthetic
+U165,P019,4,Jun,family,synthetic
+U166,P015,4,Oct,solo,synthetic
+U166,P001,5,Aug,solo,synthetic
+U166,P008,4,Sep,solo,synthetic
+U166,P010,5,Sep,solo,synthetic
+U166,P021,4,Jun,solo,synthetic
+U166,P025,3,Aug,solo,synthetic
+U166,P012,4,May,solo,synthetic
+U166,P023,3,Jun,solo,synthetic
+U166,P024,2,Jul,solo,synthetic
+U166,P002,4,May,solo,synthetic
+U166,P022,3,Aug,solo,synthetic
+U166,P005,5,Jul,solo,synthetic
+U166,P019,4,Apr,solo,synthetic
+U166,P020,3,Sep,solo,synthetic
+U166,P007,4,Aug,solo,synthetic
+U166,P027,3,Apr,solo,synthetic
+U166,P003,4,Apr,solo,synthetic
+U166,P014,4,Jul,solo,synthetic
+U166,P016,4,Aug,solo,synthetic
+U167,P007,5,Aug,friends,synthetic
+U167,P027,3,Apr,friends,synthetic
+U167,P016,4,Apr,friends,synthetic
+U167,P004,4,Apr,friends,synthetic
+U167,P018,4,Oct,friends,synthetic
+U167,P010,4,Sep,friends,synthetic
+U167,P022,3,Jun,friends,synthetic
+U167,P023,4,Jul,friends,synthetic
+U167,P015,4,Jul,friends,synthetic
+U167,P021,4,Sep,friends,synthetic
+U167,P006,3,Oct,friends,synthetic
+U167,P014,5,Jun,friends,synthetic
+U167,P003,4,Aug,friends,synthetic
+U168,P004,5,Jun,friends,synthetic
+U168,P021,3,Aug,friends,synthetic
+U168,P016,5,Jul,friends,synthetic
+U168,P012,4,Jul,friends,synthetic
+U168,P018,2,Oct,friends,synthetic
+U168,P019,4,Oct,friends,synthetic
+U168,P003,4,Oct,friends,synthetic
+U168,P014,3,Aug,friends,synthetic
+U168,P020,3,Sep,friends,synthetic
+U168,P024,5,Apr,friends,synthetic
+U168,P026,3,Jun,friends,synthetic
+U168,P010,5,Jul,friends,synthetic
+U168,P009,4,Aug,friends,synthetic
+U169,P012,5,Apr,family,synthetic
+U169,P009,5,Apr,family,synthetic
+U169,P003,4,Aug,family,synthetic
+U169,P006,3,Jul,family,synthetic
+U169,P026,5,May,family,synthetic
+U169,P008,4,Sep,family,synthetic
+U169,P004,5,Jun,family,synthetic
+U169,P001,4,Sep,family,synthetic
+U169,P014,5,Sep,family,synthetic
+U169,P017,4,Jun,family,synthetic
+U169,P015,4,Oct,family,synthetic
+U169,P016,4,Apr,family,synthetic
+U170,P017,5,May,couple,synthetic
+U170,P007,4,Oct,couple,synthetic
+U170,P021,4,Aug,couple,synthetic
+U170,P002,4,Oct,couple,synthetic
+U170,P023,4,Jun,couple,synthetic
+U170,P024,3,Aug,couple,synthetic
+U170,P012,5,Apr,couple,synthetic
+U170,P020,4,Jul,couple,synthetic
+U170,P011,3,Apr,couple,synthetic
+U170,P025,3,Oct,couple,synthetic
+U170,P005,4,May,couple,synthetic
+U170,P006,3,Apr,couple,synthetic
+U170,P015,5,Apr,couple,synthetic
+U170,P004,4,Apr,couple,synthetic
+U170,P027,3,Apr,couple,synthetic
+U170,P013,4,Aug,couple,synthetic
+U171,P001,4,Aug,friends,synthetic
+U171,P004,4,Jun,friends,synthetic
+U171,P012,4,Oct,friends,synthetic
+U171,P025,3,Jul,friends,synthetic
+U171,P018,3,Jun,friends,synthetic
+U171,P023,3,Jul,friends,synthetic
+U171,P013,4,Oct,friends,synthetic
+U171,P011,3,Jun,friends,synthetic
+U171,P024,4,Oct,friends,synthetic
+U171,P006,4,Aug,friends,synthetic
+U171,P014,5,Apr,friends,synthetic
+U171,P026,3,Aug,friends,synthetic
+U171,P017,5,May,friends,synthetic
+U171,P003,5,Aug,friends,synthetic
+U171,P007,3,Sep,friends,synthetic
+U171,P002,4,Aug,friends,synthetic
+U171,P021,4,Sep,friends,synthetic
+U171,P022,3,Aug,friends,synthetic
+U172,P014,4,Sep,friends,synthetic
+U172,P006,4,Apr,friends,synthetic
+U172,P003,4,Oct,friends,synthetic
+U172,P026,3,Aug,friends,synthetic
+U172,P001,4,Sep,friends,synthetic
+U172,P021,3,May,friends,synthetic
+U172,P008,3,Apr,friends,synthetic
+U172,P018,3,Jul,friends,synthetic
+U172,P016,3,Oct,friends,synthetic
+U172,P025,2,Apr,friends,synthetic
+U172,P010,5,Sep,friends,synthetic
+U172,P023,4,Sep,friends,synthetic
+U172,P009,3,Oct,friends,synthetic
+U172,P004,4,May,friends,synthetic
+U172,P020,3,May,friends,synthetic
+U172,P012,4,Apr,friends,synthetic
+U173,P021,3,Oct,solo,synthetic
+U173,P019,4,Oct,solo,synthetic
+U173,P005,5,Jul,solo,synthetic
+U173,P009,5,Jun,solo,synthetic
+U173,P003,4,Oct,solo,synthetic
+U173,P017,5,Sep,solo,synthetic
+U173,P004,5,May,solo,synthetic
+U173,P027,3,Sep,solo,synthetic
+U173,P015,5,Oct,solo,synthetic
+U173,P025,4,Oct,solo,synthetic
+U173,P016,3,Oct,solo,synthetic
+U174,P020,3,Apr,family,synthetic
+U174,P018,4,Jul,family,synthetic
+U174,P002,4,Apr,family,synthetic
+U174,P012,5,Aug,family,synthetic
+U174,P004,5,May,family,synthetic
+U174,P009,4,May,family,synthetic
+U174,P001,4,May,family,synthetic
+U174,P010,4,Jul,family,synthetic
+U174,P015,5,Jun,family,synthetic
+U174,P016,5,Sep,family,synthetic
+U174,P017,5,Oct,family,synthetic
+U174,P021,3,Sep,family,synthetic
+U174,P005,5,Sep,family,synthetic
+U174,P003,5,Sep,family,synthetic
+U175,P005,4,Sep,family,synthetic
+U175,P023,3,Jun,family,synthetic
+U175,P015,5,Aug,family,synthetic
+U175,P020,4,Jul,family,synthetic
+U175,P019,4,Aug,family,synthetic
+U175,P006,3,Aug,family,synthetic
+U175,P024,2,Apr,family,synthetic
+U175,P011,3,Oct,family,synthetic
+U175,P027,3,Sep,family,synthetic
+U175,P012,5,Oct,family,synthetic
+U175,P004,5,Sep,family,synthetic
+U175,P010,5,Jun,family,synthetic
+U175,P026,2,Jul,family,synthetic
+U175,P008,3,May,family,synthetic
+U175,P025,4,Aug,family,synthetic
+U175,P009,4,May,family,synthetic
+U175,P003,4,Jul,family,synthetic
+U175,P017,4,Aug,family,synthetic
+U175,P007,5,May,family,synthetic
+U176,P017,4,Apr,couple,synthetic
+U176,P001,3,Oct,couple,synthetic
+U176,P016,4,Jun,couple,synthetic
+U176,P014,5,Jul,couple,synthetic
+U176,P015,3,Jul,couple,synthetic
+U176,P009,4,Jul,couple,synthetic
+U176,P002,4,Aug,couple,synthetic
+U176,P005,5,Apr,couple,synthetic
+U176,P024,3,Jun,couple,synthetic
+U177,P008,3,Aug,solo,synthetic
+U177,P007,3,Jul,solo,synthetic
+U177,P016,4,Aug,solo,synthetic
+U177,P022,2,May,solo,synthetic
+U177,P010,4,Aug,solo,synthetic
+U177,P002,2,Oct,solo,synthetic
+U177,P027,2,Oct,solo,synthetic
+U177,P014,3,Aug,solo,synthetic
+U177,P019,4,Jul,solo,synthetic
+U177,P001,4,May,solo,synthetic
+U177,P013,3,Jul,solo,synthetic
+U177,P024,4,May,solo,synthetic
+U177,P026,4,Apr,solo,synthetic
+U177,P017,5,Oct,solo,synthetic
+U177,P012,4,May,solo,synthetic
+U177,P025,3,May,solo,synthetic
+U178,P014,5,Oct,solo,synthetic
+U178,P001,4,May,solo,synthetic
+U178,P010,4,Oct,solo,synthetic
+U178,P013,4,Apr,solo,synthetic
+U178,P018,4,Jun,solo,synthetic
+U178,P015,4,Oct,solo,synthetic
+U178,P022,4,Jun,solo,synthetic
+U178,P003,4,Sep,solo,synthetic
+U178,P012,5,Jun,solo,synthetic
+U178,P021,4,Sep,solo,synthetic
+U178,P027,3,Jun,solo,synthetic
+U178,P008,4,Jul,solo,synthetic
+U178,P019,4,Sep,solo,synthetic
+U179,P010,5,Aug,group tour,synthetic
+U179,P005,5,Jun,group tour,synthetic
+U179,P011,5,Apr,group tour,synthetic
+U179,P023,3,Aug,group tour,synthetic
+U179,P019,5,Oct,group tour,synthetic
+U179,P014,5,Jun,group tour,synthetic
+U179,P027,2,Jun,group tour,synthetic
+U179,P012,5,Oct,group tour,synthetic
+U179,P002,4,Oct,group tour,synthetic
+U179,P007,3,Aug,group tour,synthetic
+U179,P004,5,Aug,group tour,synthetic
+U179,P024,3,May,group tour,synthetic
+U179,P020,3,Oct,group tour,synthetic
+U179,P008,4,Sep,group tour,synthetic
+U180,P015,5,Aug,friends,synthetic
+U180,P021,3,Sep,friends,synthetic
+U180,P027,3,Aug,friends,synthetic
+U180,P012,4,Aug,friends,synthetic
+U180,P009,5,May,friends,synthetic
+U180,P023,4,Oct,friends,synthetic
+U180,P006,3,Jun,friends,synthetic
+U180,P016,4,Jun,friends,synthetic
+U180,P011,4,Jul,friends,synthetic
+U180,P001,4,Apr,friends,synthetic
+U180,P010,4,Oct,friends,synthetic
+U181,P014,5,Apr,couple,synthetic
+U181,P004,5,May,couple,synthetic
+U181,P015,5,Sep,couple,synthetic
+U181,P013,5,May,couple,synthetic
+U181,P017,5,Apr,couple,synthetic
+U181,P001,4,Apr,couple,synthetic
+U181,P006,4,Sep,couple,synthetic
+U181,P027,5,Jun,couple,synthetic
+U181,P011,5,Jul,couple,synthetic
+U181,P021,3,Jul,couple,synthetic
+U181,P016,4,Jun,couple,synthetic
+U181,P008,4,Aug,couple,synthetic
+U181,P010,5,May,couple,synthetic
+U181,P005,5,Jul,couple,synthetic
+U181,P024,4,Oct,couple,synthetic
+U181,P003,5,Apr,couple,synthetic
+U181,P018,4,Aug,couple,synthetic
+U181,P002,4,Sep,couple,synthetic
+U181,P025,4,Oct,couple,synthetic
+U181,P026,4,Jul,couple,synthetic
+U182,P013,5,Aug,family,synthetic
+U182,P017,4,Sep,family,synthetic
+U182,P006,3,Aug,family,synthetic
+U182,P022,4,Sep,family,synthetic
+U182,P027,3,May,family,synthetic
+U182,P009,4,Jul,family,synthetic
+U182,P014,4,Jul,family,synthetic
+U182,P003,4,Apr,family,synthetic
+U182,P016,5,Aug,family,synthetic
+U182,P005,4,Sep,family,synthetic
+U182,P010,4,Jun,family,synthetic
+U182,P015,4,Apr,family,synthetic
+U182,P001,4,Oct,family,synthetic
+U182,P021,4,Oct,family,synthetic
+U182,P020,3,Apr,family,synthetic
+U182,P011,4,Jul,family,synthetic
+U182,P002,5,Sep,family,synthetic
+U183,P011,5,May,couple,synthetic
+U183,P016,5,Oct,couple,synthetic
+U183,P025,3,Jun,couple,synthetic
+U183,P026,4,Jul,couple,synthetic
+U183,P021,4,May,couple,synthetic
+U183,P003,5,Jun,couple,synthetic
+U183,P019,5,Jul,couple,synthetic
+U183,P012,5,May,couple,synthetic
+U183,P013,5,Jun,couple,synthetic
+U183,P002,4,Jul,couple,synthetic
+U183,P006,4,Oct,couple,synthetic
+U183,P022,4,Jun,couple,synthetic
+U183,P010,4,Sep,couple,synthetic
+U183,P024,4,Aug,couple,synthetic
+U183,P007,4,Aug,couple,synthetic
+U183,P004,3,Sep,couple,synthetic
+U183,P027,4,Jun,couple,synthetic
+U184,P011,4,Aug,solo,synthetic
+U184,P013,4,Aug,solo,synthetic
+U184,P014,4,Jun,solo,synthetic
+U184,P021,4,Aug,solo,synthetic
+U184,P005,5,Oct,solo,synthetic
+U184,P018,4,Sep,solo,synthetic
+U184,P015,5,Oct,solo,synthetic
+U184,P004,5,Oct,solo,synthetic
+U184,P017,5,Jun,solo,synthetic
+U184,P016,4,Sep,solo,synthetic
+U184,P009,4,Jun,solo,synthetic
+U184,P024,3,Aug,solo,synthetic
+U184,P002,4,Jul,solo,synthetic
+U184,P010,5,Jun,solo,synthetic
+U184,P022,3,Jun,solo,synthetic
+U184,P026,3,Jul,solo,synthetic
+U184,P007,4,Apr,solo,synthetic
+U185,P021,3,Sep,couple,synthetic
+U185,P024,3,May,couple,synthetic
+U185,P012,4,Apr,couple,synthetic
+U185,P007,4,Jul,couple,synthetic
+U185,P006,3,May,couple,synthetic
+U185,P022,4,Aug,couple,synthetic
+U185,P010,5,Jun,couple,synthetic
+U185,P004,5,Jun,couple,synthetic
+U185,P023,4,Apr,couple,synthetic
+U185,P018,4,Aug,couple,synthetic
+U185,P016,3,Sep,couple,synthetic
+U185,P017,5,Sep,couple,synthetic
+U185,P011,4,Oct,couple,synthetic
+U185,P025,4,Aug,couple,synthetic
+U185,P013,5,Aug,couple,synthetic
+U186,P010,4,Aug,group tour,synthetic
+U186,P009,4,Aug,group tour,synthetic
+U186,P014,4,Oct,group tour,synthetic
+U186,P020,3,Apr,group tour,synthetic
+U186,P024,3,Aug,group tour,synthetic
+U186,P016,3,Aug,group tour,synthetic
+U186,P018,4,Jun,group tour,synthetic
+U186,P023,3,May,group tour,synthetic
+U186,P003,4,Sep,group tour,synthetic
+U186,P005,5,May,group tour,synthetic
+U186,P021,2,Apr,group tour,synthetic
+U186,P012,5,Apr,group tour,synthetic
+U186,P013,4,Jun,group tour,synthetic
+U186,P008,3,Jul,group tour,synthetic
+U186,P019,4,May,group tour,synthetic
+U186,P002,4,Jul,group tour,synthetic
+U186,P022,3,Jun,group tour,synthetic
+U186,P011,4,Sep,group tour,synthetic
+U187,P009,3,Jun,group tour,synthetic
+U187,P003,4,Apr,group tour,synthetic
+U187,P001,5,Aug,group tour,synthetic
+U187,P013,3,Sep,group tour,synthetic
+U187,P024,4,Oct,group tour,synthetic
+U187,P016,3,Apr,group tour,synthetic
+U187,P027,4,Apr,group tour,synthetic
+U187,P005,4,Aug,group tour,synthetic
+U187,P021,5,Sep,group tour,synthetic
+U187,P025,4,Sep,group tour,synthetic
+U187,P026,2,May,group tour,synthetic
+U187,P008,3,Sep,group tour,synthetic
+U188,P021,4,Jul,group tour,synthetic
+U188,P025,3,Apr,group tour,synthetic
+U188,P026,4,Sep,group tour,synthetic
+U188,P023,3,Apr,group tour,synthetic
+U188,P024,4,Jul,group tour,synthetic
+U188,P015,5,Sep,group tour,synthetic
+U188,P009,4,Apr,group tour,synthetic
+U188,P012,4,Apr,group tour,synthetic
+U188,P007,3,May,group tour,synthetic
+U189,P012,5,Oct,solo,synthetic
+U189,P020,4,Aug,solo,synthetic
+U189,P019,5,Sep,solo,synthetic
+U189,P011,3,Jun,solo,synthetic
+U189,P009,4,Aug,solo,synthetic
+U189,P002,3,May,solo,synthetic
+U189,P001,4,Oct,solo,synthetic
+U189,P013,4,Apr,solo,synthetic
+U189,P004,5,Oct,solo,synthetic
+U189,P006,4,Apr,solo,synthetic
+U189,P025,3,Jun,solo,synthetic
+U189,P022,4,Jul,solo,synthetic
+U189,P018,4,Apr,solo,synthetic
+U189,P014,5,May,solo,synthetic
+U189,P027,3,Aug,solo,synthetic
+U189,P026,4,Jul,solo,synthetic
+U189,P005,4,Jul,solo,synthetic
+U189,P017,5,Apr,solo,synthetic
+U189,P016,5,Apr,solo,synthetic
+U189,P010,4,May,solo,synthetic
+U190,P014,5,Apr,family,synthetic
+U190,P002,4,May,family,synthetic
+U190,P016,3,Apr,family,synthetic
+U190,P008,4,Apr,family,synthetic
+U190,P024,4,Jun,family,synthetic
+U190,P011,4,Jun,family,synthetic
+U190,P004,4,Apr,family,synthetic
+U190,P020,2,Oct,family,synthetic
+U190,P005,4,Sep,family,synthetic
+U190,P026,3,Oct,family,synthetic
+U190,P027,4,Jul,family,synthetic
+U190,P007,4,Apr,family,synthetic
+U190,P010,4,Oct,family,synthetic
+U190,P006,3,Sep,family,synthetic
+U190,P015,5,Oct,family,synthetic
+U191,P010,5,Jun,couple,synthetic
+U191,P027,4,Sep,couple,synthetic
+U191,P005,5,Jun,couple,synthetic
+U191,P006,2,Apr,couple,synthetic
+U191,P008,4,Jun,couple,synthetic
+U191,P004,4,Apr,couple,synthetic
+U191,P024,3,Jun,couple,synthetic
+U191,P015,3,Apr,couple,synthetic
+U191,P025,3,May,couple,synthetic
+U191,P001,4,Sep,couple,synthetic
+U191,P014,5,Jul,couple,synthetic
+U191,P019,4,Sep,couple,synthetic
+U191,P002,3,Jul,couple,synthetic
+U191,P012,5,Sep,couple,synthetic
+U192,P002,5,Jun,solo,synthetic
+U192,P015,5,Jul,solo,synthetic
+U192,P019,5,Oct,solo,synthetic
+U192,P004,4,Jul,solo,synthetic
+U192,P007,4,Jul,solo,synthetic
+U192,P024,3,Sep,solo,synthetic
+U192,P001,5,Jul,solo,synthetic
+U192,P013,4,Apr,solo,synthetic
+U192,P012,5,Sep,solo,synthetic
+U192,P021,3,Oct,solo,synthetic
+U192,P010,4,Apr,solo,synthetic
+U192,P017,5,May,solo,synthetic
+U192,P018,3,Jun,solo,synthetic
+U192,P027,2,Apr,solo,synthetic
+U192,P016,5,Apr,solo,synthetic
+U192,P011,4,Aug,solo,synthetic
+U193,P021,4,Jul,couple,synthetic
+U193,P002,3,Apr,couple,synthetic
+U193,P006,4,Oct,couple,synthetic
+U193,P015,4,Jun,couple,synthetic
+U193,P025,3,Oct,couple,synthetic
+U193,P023,5,Apr,couple,synthetic
+U193,P010,5,Jun,couple,synthetic
+U193,P012,5,Jun,couple,synthetic
+U194,P016,5,Oct,couple,synthetic
+U194,P001,4,Jul,couple,synthetic
+U194,P004,5,Apr,couple,synthetic
+U194,P022,4,Jun,couple,synthetic
+U194,P020,3,Apr,couple,synthetic
+U194,P009,4,Apr,couple,synthetic
+U194,P014,5,Oct,couple,synthetic
+U194,P005,5,Aug,couple,synthetic
+U194,P007,4,Aug,couple,synthetic
+U194,P008,4,Jun,couple,synthetic
+U195,P022,4,Oct,couple,synthetic
+U195,P027,4,Jul,couple,synthetic
+U195,P018,5,Oct,couple,synthetic
+U195,P016,4,Aug,couple,synthetic
+U195,P003,3,Aug,couple,synthetic
+U195,P013,4,Aug,couple,synthetic
+U195,P007,4,May,couple,synthetic
+U195,P019,4,Oct,couple,synthetic
+U195,P011,5,Apr,couple,synthetic
+U195,P014,4,Apr,couple,synthetic
+U195,P023,3,May,couple,synthetic
+U195,P010,4,Aug,couple,synthetic
+U195,P015,5,Sep,couple,synthetic
+U195,P020,4,Oct,couple,synthetic
+U195,P021,4,Jul,couple,synthetic
+U195,P012,5,Oct,couple,synthetic
+U195,P004,5,Jul,couple,synthetic
+U196,P006,3,Aug,family,synthetic
+U196,P018,5,Jul,family,synthetic
+U196,P003,4,Sep,family,synthetic
+U196,P016,4,May,family,synthetic
+U196,P007,4,Apr,family,synthetic
+U196,P012,4,Apr,family,synthetic
+U196,P014,5,Apr,family,synthetic
+U196,P004,5,Oct,family,synthetic
+U196,P017,3,May,family,synthetic
+U196,P023,4,Oct,family,synthetic
+U196,P013,4,Aug,family,synthetic
+U196,P019,3,Oct,family,synthetic
+U196,P022,4,Oct,family,synthetic
+U196,P001,4,Oct,family,synthetic
+U196,P021,3,Jul,family,synthetic
+U197,P004,5,Apr,family,synthetic
+U197,P012,5,Sep,family,synthetic
+U197,P025,4,Aug,family,synthetic
+U197,P022,3,Jun,family,synthetic
+U197,P002,4,Aug,family,synthetic
+U197,P018,3,Apr,family,synthetic
+U197,P014,4,Jun,family,synthetic
+U197,P003,5,Aug,family,synthetic
+U197,P015,5,Jul,family,synthetic
+U198,P012,4,Apr,friends,synthetic
+U198,P019,5,Jul,friends,synthetic
+U198,P005,5,Jul,friends,synthetic
+U198,P013,4,Sep,friends,synthetic
+U198,P021,4,Sep,friends,synthetic
+U198,P025,4,Jun,friends,synthetic
+U198,P017,5,Sep,friends,synthetic
+U198,P004,5,Apr,friends,synthetic
+U198,P026,2,Aug,friends,synthetic
+U198,P022,5,Apr,friends,synthetic
+U198,P008,4,Jul,friends,synthetic
+U198,P027,3,Oct,friends,synthetic
+U198,P018,3,Apr,friends,synthetic
+U199,P016,5,May,family,synthetic
+U199,P018,4,May,family,synthetic
+U199,P019,4,Oct,family,synthetic
+U199,P002,4,Apr,family,synthetic
+U199,P024,4,Apr,family,synthetic
+U199,P012,5,Aug,family,synthetic
+U199,P007,5,May,family,synthetic
+U199,P011,4,May,family,synthetic
+U200,P013,4,Aug,solo,synthetic
+U200,P005,5,Aug,solo,synthetic
+U200,P010,4,May,solo,synthetic
+U200,P020,4,Aug,solo,synthetic
+U200,P026,4,Jun,solo,synthetic
+U200,P015,5,Oct,solo,synthetic
+U200,P009,5,Jun,solo,synthetic
+U200,P016,4,Oct,solo,synthetic
+U200,P012,4,Jul,solo,synthetic
+U200,P011,4,Jun,solo,synthetic

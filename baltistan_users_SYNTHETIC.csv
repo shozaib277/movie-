@@ -1,0 +1,201 @@
+user_id,interests,trip_type,home_city
+U001,adventure,family,Rawalpindi
+U002,nature;adventure,group tour,Karachi
+U003,adventure;camping;family,friends,Rawalpindi
+U004,family,friends,Skardu
+U005,nature;photography;culture,solo,Islamabad
+U006,culture;camping;nature,friends,Faisalabad
+U007,adventure,couple,Karachi
+U008,culture;family,family,Lahore
+U009,family;adventure;photography,solo,Skardu
+U010,camping;family,family,Foreign visitor
+U011,camping;adventure,solo,Rawalpindi
+U012,adventure;nature,solo,Multan
+U013,photography;culture,friends,Faisalabad
+U014,nature;culture,solo,Foreign visitor
+U015,family;nature,friends,Quetta
+U016,culture;family;nature,family,Lahore
+U017,adventure;culture,couple,Peshawar
+U018,nature,group tour,Faisalabad
+U019,camping;photography,couple,Quetta
+U020,culture;nature,friends,Skardu
+U021,camping;family,couple,Foreign visitor
+U022,culture;nature;family,group tour,Quetta
+U023,adventure,solo,Islamabad
+U024,camping;photography,group tour,Karachi
+U025,photography;family;camping,group tour,Peshawar
+U026,camping,solo,Skardu
+U027,camping;culture,solo,Peshawar
+U028,nature;photography;adventure,family,Skardu
+U029,family;adventure,family,Skardu
+U030,nature;culture,friends,Skardu
+U031,family,family,Quetta
+U032,adventure,family,Peshawar
+U033,adventure;nature,group tour,Karachi
+U034,camping,couple,Karachi
+U035,nature;photography,group tour,Islamabad
+U036,family;camping,couple,Rawalpindi
+U037,camping;culture,couple,Faisalabad
+U038,family;photography;adventure,friends,Rawalpindi
+U039,culture,solo,Foreign visitor
+U040,family;nature,solo,Karachi
+U041,nature,solo,Lahore
+U042,adventure;family,friends,Peshawar
+U043,nature;family;camping,group tour,Foreign visitor
+U044,nature;photography;family,friends,Karachi
+U045,camping,couple,Faisalabad
+U046,photography;camping;adventure,solo,Lahore
+U047,camping;culture;adventure,friends,Rawalpindi
+U048,family;photography,friends,Multan
+U049,culture;photography,friends,Karachi
+U050,family;adventure;camping,group tour,Lahore
+U051,nature,friends,Multan
+U052,photography;nature;camping,solo,Islamabad
+U053,adventure;photography;culture,couple,Peshawar
+U054,camping;family;photography,friends,Rawalpindi
+U055,nature;adventure,group tour,Skardu
+U056,camping,family,Lahore
+U057,family,couple,Skardu
+U058,adventure;family,solo,Islamabad
+U059,family,solo,Rawalpindi
+U060,adventure;family;nature,group tour,Foreign visitor
+U061,family,solo,Multan
+U062,culture;nature,family,Rawalpindi
+U063,photography;nature,family,Quetta
+U064,adventure;camping,couple,Foreign visitor
+U065,adventure,group tour,Rawalpindi
+U066,nature;culture,solo,Rawalpindi
+U067,culture;nature,couple,Skardu
+U068,family;camping,solo,Skardu
+U069,camping;adventure,friends,Peshawar
+U070,adventure,group tour,Islamabad
+U071,culture;family,friends,Faisalabad
+U072,camping;culture,group tour,Quetta
+U073,adventure;camping,couple,Peshawar
+U074,adventure,family,Islamabad
+U075,nature;photography,group tour,Multan
+U076,adventure,solo,Islamabad
+U077,culture,group tour,Skardu
+U078,photography;nature,solo,Peshawar
+U079,adventure;culture,friends,Rawalpindi
+U080,culture,group tour,Multan
+U081,nature;camping,friends,Multan
+U082,nature,family,Multan
+U083,culture;nature,solo,Multan
+U084,photography,friends,Rawalpindi
+U085,culture;camping;nature,friends,Lahore
+U086,photography;culture,family,Karachi
+U087,culture;family,couple,Skardu
+U088,adventure;camping,family,Islamabad
+U089,adventure;camping,group tour,Multan
+U090,camping;culture,couple,Foreign visitor
+U091,photography,group tour,Rawalpindi
+U092,adventure;photography,solo,Skardu
+U093,culture;photography,solo,Faisalabad
+U094,camping;adventure,family,Skardu
+U095,camping;photography,family,Multan
+U096,family;nature,friends,Multan
+U097,camping;nature;culture,couple,Skardu
+U098,culture,family,Rawalpindi
+U099,family;camping;culture,couple,Quetta
+U100,camping;nature;photography,friends,Karachi
+U101,family;camping,family,Karachi
+U102,camping;culture,friends,Rawalpindi
+U103,adventure;camping,friends,Quetta
+U104,photography,couple,Foreign visitor
+U105,camping;photography,couple,Multan
+U106,nature;adventure,solo,Multan
+U107,nature;family,couple,Lahore
+U108,adventure;photography,friends,Quetta
+U109,photography;family,group tour,Multan
+U110,nature;photography;family,family,Rawalpindi
+U111,family;photography,friends,Peshawar
+U112,adventure;culture;nature,family,Faisalabad
+U113,family;adventure,friends,Islamabad
+U114,photography;nature,friends,Karachi
+U115,photography;culture;camping,couple,Lahore
+U116,photography;camping,group tour,Lahore
+U117,photography;adventure;culture,family,Multan
+U118,family;camping;nature,couple,Rawalpindi
+U119,photography;camping,solo,Multan
+U120,camping;photography,friends,Quetta
+U121,family;camping,solo,Multan
+U122,adventure,couple,Islamabad
+U123,nature;adventure;culture,couple,Faisalabad
+U124,photography;culture,family,Multan
+U125,photography;culture,solo,Quetta
+U126,camping,group tour,Lahore
+U127,nature;adventure,solo,Lahore
+U128,nature;adventure,group tour,Islamabad
+U129,nature;photography,solo,Foreign visitor
+U130,photography;culture,family,Islamabad
+U131,nature,family,Karachi
+U132,culture,group tour,Multan
+U133,camping;nature;adventure,group tour,Rawalpindi
+U134,camping,family,Foreign visitor
+U135,family,solo,Faisalabad
+U136,camping;culture;adventure,group tour,Faisalabad
+U137,photography,couple,Karachi
+U138,culture;photography;nature,couple,Islamabad
+U139,family;camping,couple,Quetta
+U140,camping;family;culture,family,Rawalpindi
+U141,culture,couple,Rawalpindi
+U142,family;camping;photography,family,Lahore
+U143,culture;nature;photography,friends,Faisalabad
+U144,culture;camping,group tour,Peshawar
+U145,family,friends,Karachi
+U146,camping;photography,couple,Skardu
+U147,camping;photography,couple,Quetta
+U148,adventure,family,Rawalpindi
+U149,camping;nature;culture,group tour,Faisalabad
+U150,family;camping;culture,couple,Skardu
+U151,culture;photography,family,Peshawar
+U152,nature;adventure,friends,Faisalabad
+U153,camping,group tour,Islamabad
+U154,nature;photography,family,Foreign visitor
+U155,adventure;nature,family,Rawalpindi
+U156,nature;culture,solo,Skardu
+U157,culture;adventure,solo,Skardu
+U158,camping;nature,couple,Karachi
+U159,family,family,Quetta
+U160,photography;culture;nature,solo,Peshawar
+U161,adventure;camping;photography,couple,Karachi
+U162,nature,friends,Foreign visitor
+U163,adventure;nature,solo,Skardu
+U164,family;camping;nature,group tour,Multan
+U165,photography;culture;camping,family,Foreign visitor
+U166,family,solo,Rawalpindi
+U167,culture;adventure,friends,Rawalpindi
+U168,family;adventure,friends,Lahore
+U169,photography;family;camping,family,Lahore
+U170,culture;camping,couple,Karachi
+U171,culture;family,friends,Multan
+U172,family,friends,Islamabad
+U173,nature;adventure,solo,Islamabad
+U174,family;camping,family,Quetta
+U175,photography,family,Multan
+U176,family;camping,couple,Quetta
+U177,family,solo,Multan
+U178,family;culture,solo,Karachi
+U179,camping;family,group tour,Lahore
+U180,family;adventure,friends,Quetta
+U181,culture;nature;photography,couple,Karachi
+U182,culture;photography;camping,family,Karachi
+U183,culture;photography,couple,Peshawar
+U184,family;adventure;photography,solo,Faisalabad
+U185,culture;adventure,couple,Skardu
+U186,camping,group tour,Quetta
+U187,adventure;nature;culture,group tour,Quetta
+U188,adventure;nature;culture,group tour,Islamabad
+U189,photography;camping,solo,Lahore
+U190,camping;nature,family,Skardu
+U191,family,couple,Karachi
+U192,adventure;photography,solo,Islamabad
+U193,camping;culture;family,couple,Quetta
+U194,nature;photography;camping,couple,Rawalpindi
+U195,adventure;culture,couple,Faisalabad
+U196,adventure;culture,family,Foreign visitor
+U197,nature;photography;family,family,Faisalabad
+U198,photography;culture;nature,friends,Foreign visitor
+U199,nature;photography;adventure,family,Quetta
+U200,photography;nature;camping,solo,Islamabad
